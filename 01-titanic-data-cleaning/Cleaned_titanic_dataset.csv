@@ -1,0 +1,892 @@
+PassengerId,Survived,Passenger Class,Name,Sex,Age,Sibling or Spouses Aboard,Parents or Children Aboard,Ticket,Fare,Cabin,Embarkation
+1,No,Third Class,"Braund, Mr. Owen Harris",Male,22.0,1,0,A/5 21171,7.25,Unknown,Southampton
+2,Yes,First Class,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Female,38.0,1,0,PC 17599,71.28,C85,Cherbourg
+3,Yes,Third Class,"Heikkinen, Miss. Laina",Female,26.0,0,0,STON/O2. 3101282,7.92,Unknown,Southampton
+4,Yes,First Class,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,35.0,1,0,113803,53.1,C123,Southampton
+5,No,Third Class,"Allen, Mr. William Henry",Male,35.0,0,0,373450,8.05,Unknown,Southampton
+6,No,Third Class,"Moran, Mr. James",Male,28.0,0,0,330877,8.46,Unknown,Queenstown
+7,No,First Class,"McCarthy, Mr. Timothy J",Male,54.0,0,0,17463,51.86,E46,Southampton
+8,No,Third Class,"Palsson, Master. Gosta Leonard",Male,2.0,3,1,349909,21.08,Unknown,Southampton
+9,Yes,Third Class,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Female,27.0,0,2,347742,11.13,Unknown,Southampton
+10,Yes,Second Class,"Nasser, Mrs. Nicholas (Adele Achem)",Female,14.0,1,0,237736,30.07,Unknown,Cherbourg
+11,Yes,Third Class,"Sandstrom, Miss. Marguerite Rut",Female,4.0,1,1,PP 9549,16.7,G6,Southampton
+12,Yes,First Class,"Bonnell, Miss. Elizabeth",Female,58.0,0,0,113783,26.55,C103,Southampton
+13,No,Third Class,"Saundercock, Mr. William Henry",Male,20.0,0,0,A/5. 2151,8.05,Unknown,Southampton
+14,No,Third Class,"Andersson, Mr. Anders Johan",Male,39.0,1,5,347082,31.28,Unknown,Southampton
+15,No,Third Class,"Vestrom, Miss. Hulda Amanda Adolfina",Female,14.0,0,0,350406,7.85,Unknown,Southampton
+16,Yes,Second Class,"Hewlett, Mrs. (Mary D Kingcome) ",Female,55.0,0,0,248706,16.0,Unknown,Southampton
+17,No,Third Class,"Rice, Master. Eugene",Male,2.0,4,1,382652,29.12,Unknown,Queenstown
+18,Yes,Second Class,"Williams, Mr. Charles Eugene",Male,28.0,0,0,244373,13.0,Unknown,Southampton
+19,No,Third Class,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Female,31.0,1,0,345763,18.0,Unknown,Southampton
+20,Yes,Third Class,"Masselmani, Mrs. Fatima",Female,28.0,0,0,2649,7.22,Unknown,Cherbourg
+21,No,Second Class,"Fynney, Mr. Joseph J",Male,35.0,0,0,239865,26.0,Unknown,Southampton
+22,Yes,Second Class,"Beesley, Mr. Lawrence",Male,34.0,0,0,248698,13.0,D56,Southampton
+23,Yes,Third Class,"McGowan, Miss. Anna ""Annie""",Female,15.0,0,0,330923,8.03,Unknown,Queenstown
+24,Yes,First Class,"Sloper, Mr. William Thompson",Male,28.0,0,0,113788,35.5,A6,Southampton
+25,No,Third Class,"Palsson, Miss. Torborg Danira",Female,8.0,3,1,349909,21.08,Unknown,Southampton
+26,Yes,Third Class,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Female,38.0,1,5,347077,31.39,Unknown,Southampton
+27,No,Third Class,"Emir, Mr. Farred Chehab",Male,28.0,0,0,2631,7.22,Unknown,Cherbourg
+28,No,First Class,"Fortune, Mr. Charles Alexander",Male,19.0,3,2,19950,263.0,C23 C25 C27,Southampton
+29,Yes,Third Class,"O'Dwyer, Miss. Ellen ""Nellie""",Female,28.0,0,0,330959,7.88,Unknown,Queenstown
+30,No,Third Class,"Todoroff, Mr. Lalio",Male,28.0,0,0,349216,7.9,Unknown,Southampton
+31,No,First Class,"Uruchurtu, Don. Manuel E",Male,40.0,0,0,PC 17601,27.72,Unknown,Cherbourg
+32,Yes,First Class,"Spencer, Mrs. William Augustus (Marie Eugenie)",Female,28.0,1,0,PC 17569,146.52,B78,Cherbourg
+33,Yes,Third Class,"Glynn, Miss. Mary Agatha",Female,28.0,0,0,335677,7.75,Unknown,Queenstown
+34,No,Second Class,"Wheadon, Mr. Edward H",Male,66.0,0,0,C.A. 24579,10.5,Unknown,Southampton
+35,No,First Class,"Meyer, Mr. Edgar Joseph",Male,28.0,1,0,PC 17604,82.17,Unknown,Cherbourg
+36,No,First Class,"Holverson, Mr. Alexander Oskar",Male,42.0,1,0,113789,52.0,Unknown,Southampton
+37,Yes,Third Class,"Mamee, Mr. Hanna",Male,28.0,0,0,2677,7.23,Unknown,Cherbourg
+38,No,Third Class,"Cann, Mr. Ernest Charles",Male,21.0,0,0,A./5. 2152,8.05,Unknown,Southampton
+39,No,Third Class,"Vander Planke, Miss. Augusta Maria",Female,18.0,2,0,345764,18.0,Unknown,Southampton
+40,Yes,Third Class,"Nicola-Yarred, Miss. Jamila",Female,14.0,1,0,2651,11.24,Unknown,Cherbourg
+41,No,Third Class,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Female,40.0,1,0,7546,9.48,Unknown,Southampton
+42,No,Second Class,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Female,27.0,1,0,11668,21.0,Unknown,Southampton
+43,No,Third Class,"Kraeff, Mr. Theodor",Male,28.0,0,0,349253,7.9,Unknown,Cherbourg
+44,Yes,Second Class,"Laroche, Miss. Simonne Marie Anne Andree",Female,3.0,1,2,SC/Paris 2123,41.58,Unknown,Cherbourg
+45,Yes,Third Class,"Devaney, Miss. Margaret Delia",Female,19.0,0,0,330958,7.88,Unknown,Queenstown
+46,No,Third Class,"Rogers, Mr. William John",Male,28.0,0,0,S.C./A.4. 23567,8.05,Unknown,Southampton
+47,No,Third Class,"Lennon, Mr. Denis",Male,28.0,1,0,370371,15.5,Unknown,Queenstown
+48,Yes,Third Class,"O'Driscoll, Miss. Bridget",Female,28.0,0,0,14311,7.75,Unknown,Queenstown
+49,No,Third Class,"Samaan, Mr. Youssef",Male,28.0,2,0,2662,21.68,Unknown,Cherbourg
+50,No,Third Class,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Female,18.0,1,0,349237,17.8,Unknown,Southampton
+51,No,Third Class,"Panula, Master. Juha Niilo",Male,7.0,4,1,3101295,39.69,Unknown,Southampton
+52,No,Third Class,"Nosworthy, Mr. Richard Cater",Male,21.0,0,0,A/4. 39886,7.8,Unknown,Southampton
+53,Yes,First Class,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Female,49.0,1,0,PC 17572,76.73,D33,Cherbourg
+54,Yes,Second Class,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Female,29.0,1,0,2926,26.0,Unknown,Southampton
+55,No,First Class,"Ostby, Mr. Engelhart Cornelius",Male,65.0,0,1,113509,61.98,B30,Cherbourg
+56,Yes,First Class,"Woolner, Mr. Hugh",Male,28.0,0,0,19947,35.5,C52,Southampton
+57,Yes,Second Class,"Rugg, Miss. Emily",Female,21.0,0,0,C.A. 31026,10.5,Unknown,Southampton
+58,No,Third Class,"Novel, Mr. Mansouer",Male,28.5,0,0,2697,7.23,Unknown,Cherbourg
+59,Yes,Second Class,"West, Miss. Constance Mirium",Female,5.0,1,2,C.A. 34651,27.75,Unknown,Southampton
+60,No,Third Class,"Goodwin, Master. William Frederick",Male,11.0,5,2,CA 2144,46.9,Unknown,Southampton
+61,No,Third Class,"Sirayanian, Mr. Orsen",Male,22.0,0,0,2669,7.23,Unknown,Cherbourg
+62,Yes,First Class,"Icard, Miss. Amelie",Female,38.0,0,0,113572,80.0,B28,Southampton
+63,No,First Class,"Harris, Mr. Henry Birkhardt",Male,45.0,1,0,36973,83.48,C83,Southampton
+64,No,Third Class,"Skoog, Master. Harald",Male,4.0,3,2,347088,27.9,Unknown,Southampton
+65,No,First Class,"Stewart, Mr. Albert A",Male,28.0,0,0,PC 17605,27.72,Unknown,Cherbourg
+66,Yes,Third Class,"Moubarek, Master. Gerios",Male,28.0,1,1,2661,15.25,Unknown,Cherbourg
+67,Yes,Second Class,"Nye, Mrs. (Elizabeth Ramell)",Female,29.0,0,0,C.A. 29395,10.5,F33,Southampton
+68,No,Third Class,"Crease, Mr. Ernest James",Male,19.0,0,0,S.P. 3464,8.16,Unknown,Southampton
+69,Yes,Third Class,"Andersson, Miss. Erna Alexandra",Female,17.0,4,2,3101281,7.92,Unknown,Southampton
+70,No,Third Class,"Kink, Mr. Vincenz",Male,26.0,2,0,315151,8.66,Unknown,Southampton
+71,No,Second Class,"Jenkin, Mr. Stephen Curnow",Male,32.0,0,0,C.A. 33111,10.5,Unknown,Southampton
+72,No,Third Class,"Goodwin, Miss. Lillian Amy",Female,16.0,5,2,CA 2144,46.9,Unknown,Southampton
+73,No,Second Class,"Hood, Mr. Ambrose Jr",Male,21.0,0,0,S.O.C. 14879,73.5,Unknown,Southampton
+74,No,Third Class,"Chronopoulos, Mr. Apostolos",Male,26.0,1,0,2680,14.45,Unknown,Cherbourg
+75,Yes,Third Class,"Bing, Mr. Lee",Male,32.0,0,0,1601,56.5,Unknown,Southampton
+76,No,Third Class,"Moen, Mr. Sigurd Hansen",Male,25.0,0,0,348123,7.65,F G73,Southampton
+77,No,Third Class,"Staneff, Mr. Ivan",Male,28.0,0,0,349208,7.9,Unknown,Southampton
+78,No,Third Class,"Moutal, Mr. Rahamin Haim",Male,28.0,0,0,374746,8.05,Unknown,Southampton
+79,Yes,Second Class,"Caldwell, Master. Alden Gates",Male,0.83,0,2,248738,29.0,Unknown,Southampton
+80,Yes,Third Class,"Dowdell, Miss. Elizabeth",Female,30.0,0,0,364516,12.48,Unknown,Southampton
+81,No,Third Class,"Waelens, Mr. Achille",Male,22.0,0,0,345767,9.0,Unknown,Southampton
+82,Yes,Third Class,"Sheerlinck, Mr. Jan Baptist",Male,29.0,0,0,345779,9.5,Unknown,Southampton
+83,Yes,Third Class,"McDermott, Miss. Brigdet Delia",Female,28.0,0,0,330932,7.79,Unknown,Queenstown
+84,No,First Class,"Carrau, Mr. Francisco M",Male,28.0,0,0,113059,47.1,Unknown,Southampton
+85,Yes,Second Class,"Ilett, Miss. Bertha",Female,17.0,0,0,SO/C 14885,10.5,Unknown,Southampton
+86,Yes,Third Class,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Female,33.0,3,0,3101278,15.85,Unknown,Southampton
+87,No,Third Class,"Ford, Mr. William Neal",Male,16.0,1,3,W./C. 6608,34.38,Unknown,Southampton
+88,No,Third Class,"Slocovski, Mr. Selman Francis",Male,28.0,0,0,SOTON/OQ 392086,8.05,Unknown,Southampton
+89,Yes,First Class,"Fortune, Miss. Mabel Helen",Female,23.0,3,2,19950,263.0,C23 C25 C27,Southampton
+90,No,Third Class,"Celotti, Mr. Francesco",Male,24.0,0,0,343275,8.05,Unknown,Southampton
+91,No,Third Class,"Christmann, Mr. Emil",Male,29.0,0,0,343276,8.05,Unknown,Southampton
+92,No,Third Class,"Andreasson, Mr. Paul Edvin",Male,20.0,0,0,347466,7.85,Unknown,Southampton
+93,No,First Class,"Chaffee, Mr. Herbert Fuller",Male,46.0,1,0,W.E.P. 5734,61.18,E31,Southampton
+94,No,Third Class,"Dean, Mr. Bertram Frank",Male,26.0,1,2,C.A. 2315,20.58,Unknown,Southampton
+95,No,Third Class,"Coxon, Mr. Daniel",Male,59.0,0,0,364500,7.25,Unknown,Southampton
+96,No,Third Class,"Shorney, Mr. Charles Joseph",Male,28.0,0,0,374910,8.05,Unknown,Southampton
+97,No,First Class,"Goldschmidt, Mr. George B",Male,71.0,0,0,PC 17754,34.65,A5,Cherbourg
+98,Yes,First Class,"Greenfield, Mr. William Bertram",Male,23.0,0,1,PC 17759,63.36,D10 D12,Cherbourg
+99,Yes,Second Class,"Doling, Mrs. John T (Ada Julia Bone)",Female,34.0,0,1,231919,23.0,Unknown,Southampton
+100,No,Second Class,"Kantor, Mr. Sinai",Male,34.0,1,0,244367,26.0,Unknown,Southampton
+101,No,Third Class,"Petranec, Miss. Matilda",Female,28.0,0,0,349245,7.9,Unknown,Southampton
+102,No,Third Class,"Petroff, Mr. Pastcho (""Pentcho"")",Male,28.0,0,0,349215,7.9,Unknown,Southampton
+103,No,First Class,"White, Mr. Richard Frasar",Male,21.0,0,1,35281,77.29,D26,Southampton
+104,No,Third Class,"Johansson, Mr. Gustaf Joel",Male,33.0,0,0,7540,8.65,Unknown,Southampton
+105,No,Third Class,"Gustafsson, Mr. Anders Vilhelm",Male,37.0,2,0,3101276,7.92,Unknown,Southampton
+106,No,Third Class,"Mionoff, Mr. Stoytcho",Male,28.0,0,0,349207,7.9,Unknown,Southampton
+107,Yes,Third Class,"Salkjelsvik, Miss. Anna Kristine",Female,21.0,0,0,343120,7.65,Unknown,Southampton
+108,Yes,Third Class,"Moss, Mr. Albert Johan",Male,28.0,0,0,312991,7.78,Unknown,Southampton
+109,No,Third Class,"Rekic, Mr. Tido",Male,38.0,0,0,349249,7.9,Unknown,Southampton
+110,Yes,Third Class,"Moran, Miss. Bertha",Female,28.0,1,0,371110,24.15,Unknown,Queenstown
+111,No,First Class,"Porter, Mr. Walter Chamberlain",Male,47.0,0,0,110465,52.0,C110,Southampton
+112,No,Third Class,"Zabour, Miss. Hileni",Female,14.5,1,0,2665,14.45,Unknown,Cherbourg
+113,No,Third Class,"Barton, Mr. David John",Male,22.0,0,0,324669,8.05,Unknown,Southampton
+114,No,Third Class,"Jussila, Miss. Katriina",Female,20.0,1,0,4136,9.82,Unknown,Southampton
+115,No,Third Class,"Attalah, Miss. Malake",Female,17.0,0,0,2627,14.46,Unknown,Cherbourg
+116,No,Third Class,"Pekoniemi, Mr. Edvard",Male,21.0,0,0,STON/O 2. 3101294,7.92,Unknown,Southampton
+117,No,Third Class,"Connors, Mr. Patrick",Male,70.5,0,0,370369,7.75,Unknown,Queenstown
+118,No,Second Class,"Turpin, Mr. William John Robert",Male,29.0,1,0,11668,21.0,Unknown,Southampton
+119,No,First Class,"Baxter, Mr. Quigg Edmond",Male,24.0,0,1,PC 17558,247.52,B58 B60,Cherbourg
+120,No,Third Class,"Andersson, Miss. Ellis Anna Maria",Female,2.0,4,2,347082,31.28,Unknown,Southampton
+121,No,Second Class,"Hickman, Mr. Stanley George",Male,21.0,2,0,S.O.C. 14879,73.5,Unknown,Southampton
+122,No,Third Class,"Moore, Mr. Leonard Charles",Male,28.0,0,0,A4. 54510,8.05,Unknown,Southampton
+123,No,Second Class,"Nasser, Mr. Nicholas",Male,32.5,1,0,237736,30.07,Unknown,Cherbourg
+124,Yes,Second Class,"Webber, Miss. Susan",Female,32.5,0,0,27267,13.0,E101,Southampton
+125,No,First Class,"White, Mr. Percival Wayland",Male,54.0,0,1,35281,77.29,D26,Southampton
+126,Yes,Third Class,"Nicola-Yarred, Master. Elias",Male,12.0,1,0,2651,11.24,Unknown,Cherbourg
+127,No,Third Class,"McMahon, Mr. Martin",Male,28.0,0,0,370372,7.75,Unknown,Queenstown
+128,Yes,Third Class,"Madsen, Mr. Fridtjof Arne",Male,24.0,0,0,C 17369,7.14,Unknown,Southampton
+129,Yes,Third Class,"Peter, Miss. Anna",Female,28.0,1,1,2668,22.36,F E69,Cherbourg
+130,No,Third Class,"Ekstrom, Mr. Johan",Male,45.0,0,0,347061,6.98,Unknown,Southampton
+131,No,Third Class,"Drazenoic, Mr. Jozef",Male,33.0,0,0,349241,7.9,Unknown,Cherbourg
+132,No,Third Class,"Coelho, Mr. Domingos Fernandeo",Male,20.0,0,0,SOTON/O.Q. 3101307,7.05,Unknown,Southampton
+133,No,Third Class,"Robins, Mrs. Alexander A (Grace Charity Laury)",Female,47.0,1,0,A/5. 3337,14.5,Unknown,Southampton
+134,Yes,Second Class,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Female,29.0,1,0,228414,26.0,Unknown,Southampton
+135,No,Second Class,"Sobey, Mr. Samuel James Hayden",Male,25.0,0,0,C.A. 29178,13.0,Unknown,Southampton
+136,No,Second Class,"Richard, Mr. Emile",Male,23.0,0,0,SC/PARIS 2133,15.05,Unknown,Cherbourg
+137,Yes,First Class,"Newsom, Miss. Helen Monypeny",Female,19.0,0,2,11752,26.28,D47,Southampton
+138,No,First Class,"Futrelle, Mr. Jacques Heath",Male,37.0,1,0,113803,53.1,C123,Southampton
+139,No,Third Class,"Osen, Mr. Olaf Elon",Male,16.0,0,0,7534,9.22,Unknown,Southampton
+140,No,First Class,"Giglio, Mr. Victor",Male,24.0,0,0,PC 17593,79.2,B86,Cherbourg
+141,No,Third Class,"Boulos, Mrs. Joseph (Sultana)",Female,28.0,0,2,2678,15.25,Unknown,Cherbourg
+142,Yes,Third Class,"Nysten, Miss. Anna Sofia",Female,22.0,0,0,347081,7.75,Unknown,Southampton
+143,Yes,Third Class,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Female,24.0,1,0,STON/O2. 3101279,15.85,Unknown,Southampton
+144,No,Third Class,"Burke, Mr. Jeremiah",Male,19.0,0,0,365222,6.75,Unknown,Queenstown
+145,No,Second Class,"Andrew, Mr. Edgardo Samuel",Male,18.0,0,0,231945,11.5,Unknown,Southampton
+146,No,Second Class,"Nicholls, Mr. Joseph Charles",Male,19.0,1,1,C.A. 33112,36.75,Unknown,Southampton
+147,Yes,Third Class,"Andersson, Mr. August Edvard (""Wennerstrom"")",Male,27.0,0,0,350043,7.8,Unknown,Southampton
+148,No,Third Class,"Ford, Miss. Robina Maggie ""Ruby""",Female,9.0,2,2,W./C. 6608,34.38,Unknown,Southampton
+149,No,Second Class,"Navratil, Mr. Michel (""Louis M Hoffman"")",Male,36.5,0,2,230080,26.0,F2,Southampton
+150,No,Second Class,"Byles, Rev. Thomas Roussel Davids",Male,42.0,0,0,244310,13.0,Unknown,Southampton
+151,No,Second Class,"Bateman, Rev. Robert James",Male,51.0,0,0,S.O.P. 1166,12.52,Unknown,Southampton
+152,Yes,First Class,"Pears, Mrs. Thomas (Edith Wearne)",Female,22.0,1,0,113776,66.6,C2,Southampton
+153,No,Third Class,"Meo, Mr. Alfonzo",Male,55.5,0,0,A.5. 11206,8.05,Unknown,Southampton
+154,No,Third Class,"van Billiard, Mr. Austin Blyler",Male,40.5,0,2,A/5. 851,14.5,Unknown,Southampton
+155,No,Third Class,"Olsen, Mr. Ole Martin",Male,28.0,0,0,Fa 265302,7.31,Unknown,Southampton
+156,No,First Class,"Williams, Mr. Charles Duane",Male,51.0,0,1,PC 17597,61.38,Unknown,Cherbourg
+157,Yes,Third Class,"Gilnagh, Miss. Katherine ""Katie""",Female,16.0,0,0,35851,7.73,Unknown,Queenstown
+158,No,Third Class,"Corn, Mr. Harry",Male,30.0,0,0,SOTON/OQ 392090,8.05,Unknown,Southampton
+159,No,Third Class,"Smiljanic, Mr. Mile",Male,28.0,0,0,315037,8.66,Unknown,Southampton
+160,No,Third Class,"Sage, Master. Thomas Henry",Male,28.0,8,2,CA. 2343,69.55,Unknown,Southampton
+161,No,Third Class,"Cribb, Mr. John Hatfield",Male,44.0,0,1,371362,16.1,Unknown,Southampton
+162,Yes,Second Class,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Female,40.0,0,0,C.A. 33595,15.75,Unknown,Southampton
+163,No,Third Class,"Bengtsson, Mr. John Viktor",Male,26.0,0,0,347068,7.78,Unknown,Southampton
+164,No,Third Class,"Calic, Mr. Jovo",Male,17.0,0,0,315093,8.66,Unknown,Southampton
+165,No,Third Class,"Panula, Master. Eino Viljami",Male,1.0,4,1,3101295,39.69,Unknown,Southampton
+166,Yes,Third Class,"Goldsmith, Master. Frank John William ""Frankie""",Male,9.0,0,2,363291,20.52,Unknown,Southampton
+167,Yes,First Class,"Chibnall, Mrs. (Edith Martha Bowerman)",Female,28.0,0,1,113505,55.0,E33,Southampton
+168,No,Third Class,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Female,45.0,1,4,347088,27.9,Unknown,Southampton
+169,No,First Class,"Baumann, Mr. John D",Male,28.0,0,0,PC 17318,25.92,Unknown,Southampton
+170,No,Third Class,"Ling, Mr. Lee",Male,28.0,0,0,1601,56.5,Unknown,Southampton
+171,No,First Class,"Van der hoef, Mr. Wyckoff",Male,61.0,0,0,111240,33.5,B19,Southampton
+172,No,Third Class,"Rice, Master. Arthur",Male,4.0,4,1,382652,29.12,Unknown,Queenstown
+173,Yes,Third Class,"Johnson, Miss. Eleanor Ileen",Female,1.0,1,1,347742,11.13,Unknown,Southampton
+174,No,Third Class,"Sivola, Mr. Antti Wilhelm",Male,21.0,0,0,STON/O 2. 3101280,7.92,Unknown,Southampton
+175,No,First Class,"Smith, Mr. James Clinch",Male,56.0,0,0,17764,30.7,A7,Cherbourg
+176,No,Third Class,"Klasen, Mr. Klas Albin",Male,18.0,1,1,350404,7.85,Unknown,Southampton
+177,No,Third Class,"Lefebre, Master. Henry Forbes",Male,28.0,3,1,4133,25.47,Unknown,Southampton
+178,No,First Class,"Isham, Miss. Ann Elizabeth",Female,50.0,0,0,PC 17595,28.71,C49,Cherbourg
+179,No,Second Class,"Hale, Mr. Reginald",Male,30.0,0,0,250653,13.0,Unknown,Southampton
+180,No,Third Class,"Leonard, Mr. Lionel",Male,36.0,0,0,LINE,0.0,Unknown,Southampton
+181,No,Third Class,"Sage, Miss. Constance Gladys",Female,28.0,8,2,CA. 2343,69.55,Unknown,Southampton
+182,No,Second Class,"Pernot, Mr. Rene",Male,28.0,0,0,SC/PARIS 2131,15.05,Unknown,Cherbourg
+183,No,Third Class,"Asplund, Master. Clarence Gustaf Hugo",Male,9.0,4,2,347077,31.39,Unknown,Southampton
+184,Yes,Second Class,"Becker, Master. Richard F",Male,1.0,2,1,230136,39.0,F4,Southampton
+185,Yes,Third Class,"Kink-Heilmann, Miss. Luise Gretchen",Female,4.0,0,2,315153,22.02,Unknown,Southampton
+186,No,First Class,"Rood, Mr. Hugh Roscoe",Male,28.0,0,0,113767,50.0,A32,Southampton
+187,Yes,Third Class,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Female,28.0,1,0,370365,15.5,Unknown,Queenstown
+188,Yes,First Class,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Male,45.0,0,0,111428,26.55,Unknown,Southampton
+189,No,Third Class,"Bourke, Mr. John",Male,40.0,1,1,364849,15.5,Unknown,Queenstown
+190,No,Third Class,"Turcin, Mr. Stjepan",Male,36.0,0,0,349247,7.9,Unknown,Southampton
+191,Yes,Second Class,"Pinsky, Mrs. (Rosa)",Female,32.0,0,0,234604,13.0,Unknown,Southampton
+192,No,Second Class,"Carbines, Mr. William",Male,19.0,0,0,28424,13.0,Unknown,Southampton
+193,Yes,Third Class,"Andersen-Jensen, Miss. Carla Christine Nielsine",Female,19.0,1,0,350046,7.85,Unknown,Southampton
+194,Yes,Second Class,"Navratil, Master. Michel M",Male,3.0,1,1,230080,26.0,F2,Southampton
+195,Yes,First Class,"Brown, Mrs. James Joseph (Margaret Tobin)",Female,44.0,0,0,PC 17610,27.72,B4,Cherbourg
+196,Yes,First Class,"Lurette, Miss. Elise",Female,58.0,0,0,PC 17569,146.52,B80,Cherbourg
+197,No,Third Class,"Mernagh, Mr. Robert",Male,28.0,0,0,368703,7.75,Unknown,Queenstown
+198,No,Third Class,"Olsen, Mr. Karl Siegwart Andreas",Male,42.0,0,1,4579,8.4,Unknown,Southampton
+199,Yes,Third Class,"Madigan, Miss. Margaret ""Maggie""",Female,28.0,0,0,370370,7.75,Unknown,Queenstown
+200,No,Second Class,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Female,24.0,0,0,248747,13.0,Unknown,Southampton
+201,No,Third Class,"Vande Walle, Mr. Nestor Cyriel",Male,28.0,0,0,345770,9.5,Unknown,Southampton
+202,No,Third Class,"Sage, Mr. Frederick",Male,28.0,8,2,CA. 2343,69.55,Unknown,Southampton
+203,No,Third Class,"Johanson, Mr. Jakob Alfred",Male,34.0,0,0,3101264,6.5,Unknown,Southampton
+204,No,Third Class,"Youseff, Mr. Gerious",Male,45.5,0,0,2628,7.22,Unknown,Cherbourg
+205,Yes,Third Class,"Cohen, Mr. Gurshon ""Gus""",Male,18.0,0,0,A/5 3540,8.05,Unknown,Southampton
+206,No,Third Class,"Strom, Miss. Telma Matilda",Female,2.0,0,1,347054,10.46,G6,Southampton
+207,No,Third Class,"Backstrom, Mr. Karl Alfred",Male,32.0,1,0,3101278,15.85,Unknown,Southampton
+208,Yes,Third Class,"Albimona, Mr. Nassef Cassem",Male,26.0,0,0,2699,18.79,Unknown,Cherbourg
+209,Yes,Third Class,"Carr, Miss. Helen ""Ellen""",Female,16.0,0,0,367231,7.75,Unknown,Queenstown
+210,Yes,First Class,"Blank, Mr. Henry",Male,40.0,0,0,112277,31.0,A31,Cherbourg
+211,No,Third Class,"Ali, Mr. Ahmed",Male,24.0,0,0,SOTON/O.Q. 3101311,7.05,Unknown,Southampton
+212,Yes,Second Class,"Cameron, Miss. Clear Annie",Female,35.0,0,0,F.C.C. 13528,21.0,Unknown,Southampton
+213,No,Third Class,"Perkin, Mr. John Henry",Male,22.0,0,0,A/5 21174,7.25,Unknown,Southampton
+214,No,Second Class,"Givard, Mr. Hans Kristensen",Male,30.0,0,0,250646,13.0,Unknown,Southampton
+215,No,Third Class,"Kiernan, Mr. Philip",Male,28.0,1,0,367229,7.75,Unknown,Queenstown
+216,Yes,First Class,"Newell, Miss. Madeleine",Female,31.0,1,0,35273,113.28,D36,Cherbourg
+217,Yes,Third Class,"Honkanen, Miss. Eliina",Female,27.0,0,0,STON/O2. 3101283,7.92,Unknown,Southampton
+218,No,Second Class,"Jacobsohn, Mr. Sidney Samuel",Male,42.0,1,0,243847,27.0,Unknown,Southampton
+219,Yes,First Class,"Bazzani, Miss. Albina",Female,32.0,0,0,11813,76.29,D15,Cherbourg
+220,No,Second Class,"Harris, Mr. Walter",Male,30.0,0,0,W/C 14208,10.5,Unknown,Southampton
+221,Yes,Third Class,"Sunderland, Mr. Victor Francis",Male,16.0,0,0,SOTON/OQ 392089,8.05,Unknown,Southampton
+222,No,Second Class,"Bracken, Mr. James H",Male,27.0,0,0,220367,13.0,Unknown,Southampton
+223,No,Third Class,"Green, Mr. George Henry",Male,51.0,0,0,21440,8.05,Unknown,Southampton
+224,No,Third Class,"Nenkoff, Mr. Christo",Male,28.0,0,0,349234,7.9,Unknown,Southampton
+225,Yes,First Class,"Hoyt, Mr. Frederick Maxfield",Male,38.0,1,0,19943,90.0,C93,Southampton
+226,No,Third Class,"Berglund, Mr. Karl Ivar Sven",Male,22.0,0,0,PP 4348,9.35,Unknown,Southampton
+227,Yes,Second Class,"Mellors, Mr. William John",Male,19.0,0,0,SW/PP 751,10.5,Unknown,Southampton
+228,No,Third Class,"Lovell, Mr. John Hall (""Henry"")",Male,20.5,0,0,A/5 21173,7.25,Unknown,Southampton
+229,No,Second Class,"Fahlstrom, Mr. Arne Jonas",Male,18.0,0,0,236171,13.0,Unknown,Southampton
+230,No,Third Class,"Lefebre, Miss. Mathilde",Female,28.0,3,1,4133,25.47,Unknown,Southampton
+231,Yes,First Class,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Female,35.0,1,0,36973,83.48,C83,Southampton
+232,No,Third Class,"Larsson, Mr. Bengt Edvin",Male,29.0,0,0,347067,7.78,Unknown,Southampton
+233,No,Second Class,"Sjostedt, Mr. Ernst Adolf",Male,59.0,0,0,237442,13.5,Unknown,Southampton
+234,Yes,Third Class,"Asplund, Miss. Lillian Gertrud",Female,5.0,4,2,347077,31.39,Unknown,Southampton
+235,No,Second Class,"Leyson, Mr. Robert William Norman",Male,24.0,0,0,C.A. 29566,10.5,Unknown,Southampton
+236,No,Third Class,"Harknett, Miss. Alice Phoebe",Female,28.0,0,0,W./C. 6609,7.55,Unknown,Southampton
+237,No,Second Class,"Hold, Mr. Stephen",Male,44.0,1,0,26707,26.0,Unknown,Southampton
+238,Yes,Second Class,"Collyer, Miss. Marjorie ""Lottie""",Female,8.0,0,2,C.A. 31921,26.25,Unknown,Southampton
+239,No,Second Class,"Pengelly, Mr. Frederick William",Male,19.0,0,0,28665,10.5,Unknown,Southampton
+240,No,Second Class,"Hunt, Mr. George Henry",Male,33.0,0,0,SCO/W 1585,12.28,Unknown,Southampton
+241,No,Third Class,"Zabour, Miss. Thamine",Female,28.0,1,0,2665,14.45,Unknown,Cherbourg
+242,Yes,Third Class,"Murphy, Miss. Katherine ""Kate""",Female,28.0,1,0,367230,15.5,Unknown,Queenstown
+243,No,Second Class,"Coleridge, Mr. Reginald Charles",Male,29.0,0,0,W./C. 14263,10.5,Unknown,Southampton
+244,No,Third Class,"Maenpaa, Mr. Matti Alexanteri",Male,22.0,0,0,STON/O 2. 3101275,7.12,Unknown,Southampton
+245,No,Third Class,"Attalah, Mr. Sleiman",Male,30.0,0,0,2694,7.22,Unknown,Cherbourg
+246,No,First Class,"Minahan, Dr. William Edward",Male,44.0,2,0,19928,90.0,C78,Queenstown
+247,No,Third Class,"Lindahl, Miss. Agda Thorilda Viktoria",Female,25.0,0,0,347071,7.78,Unknown,Southampton
+248,Yes,Second Class,"Hamalainen, Mrs. William (Anna)",Female,24.0,0,2,250649,14.5,Unknown,Southampton
+249,Yes,First Class,"Beckwith, Mr. Richard Leonard",Male,37.0,1,1,11751,52.55,D35,Southampton
+250,No,Second Class,"Carter, Rev. Ernest Courtenay",Male,54.0,1,0,244252,26.0,Unknown,Southampton
+251,No,Third Class,"Reed, Mr. James George",Male,28.0,0,0,362316,7.25,Unknown,Southampton
+252,No,Third Class,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Female,29.0,1,1,347054,10.46,G6,Southampton
+253,No,First Class,"Stead, Mr. William Thomas",Male,62.0,0,0,113514,26.55,C87,Southampton
+254,No,Third Class,"Lobb, Mr. William Arthur",Male,30.0,1,0,A/5. 3336,16.1,Unknown,Southampton
+255,No,Third Class,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Female,41.0,0,2,370129,20.21,Unknown,Southampton
+256,Yes,Third Class,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Female,29.0,0,2,2650,15.25,Unknown,Cherbourg
+257,Yes,First Class,"Thorne, Mrs. Gertrude Maybelle",Female,28.0,0,0,PC 17585,79.2,Unknown,Cherbourg
+258,Yes,First Class,"Cherry, Miss. Gladys",Female,30.0,0,0,110152,86.5,B77,Southampton
+259,Yes,First Class,"Ward, Miss. Anna",Female,35.0,0,0,PC 17755,512.33,Unknown,Cherbourg
+260,Yes,Second Class,"Parrish, Mrs. (Lutie Davis)",Female,50.0,0,1,230433,26.0,Unknown,Southampton
+261,No,Third Class,"Smith, Mr. Thomas",Male,28.0,0,0,384461,7.75,Unknown,Queenstown
+262,Yes,Third Class,"Asplund, Master. Edvin Rojj Felix",Male,3.0,4,2,347077,31.39,Unknown,Southampton
+263,No,First Class,"Taussig, Mr. Emil",Male,52.0,1,1,110413,79.65,E67,Southampton
+264,No,First Class,"Harrison, Mr. William",Male,40.0,0,0,112059,0.0,B94,Southampton
+265,No,Third Class,"Henry, Miss. Delia",Female,28.0,0,0,382649,7.75,Unknown,Queenstown
+266,No,Second Class,"Reeves, Mr. David",Male,36.0,0,0,C.A. 17248,10.5,Unknown,Southampton
+267,No,Third Class,"Panula, Mr. Ernesti Arvid",Male,16.0,4,1,3101295,39.69,Unknown,Southampton
+268,Yes,Third Class,"Persson, Mr. Ernst Ulrik",Male,25.0,1,0,347083,7.78,Unknown,Southampton
+269,Yes,First Class,"Graham, Mrs. William Thompson (Edith Junkins)",Female,58.0,0,1,PC 17582,153.46,C125,Southampton
+270,Yes,First Class,"Bissette, Miss. Amelia",Female,35.0,0,0,PC 17760,135.63,C99,Southampton
+271,No,First Class,"Cairns, Mr. Alexander",Male,28.0,0,0,113798,31.0,Unknown,Southampton
+272,Yes,Third Class,"Tornquist, Mr. William Henry",Male,25.0,0,0,LINE,0.0,Unknown,Southampton
+273,Yes,Second Class,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Female,41.0,0,1,250644,19.5,Unknown,Southampton
+274,No,First Class,"Natsch, Mr. Charles H",Male,37.0,0,1,PC 17596,29.7,C118,Cherbourg
+275,Yes,Third Class,"Healy, Miss. Hanora ""Nora""",Female,28.0,0,0,370375,7.75,Unknown,Queenstown
+276,Yes,First Class,"Andrews, Miss. Kornelia Theodosia",Female,63.0,1,0,13502,77.96,D7,Southampton
+277,No,Third Class,"Lindblom, Miss. Augusta Charlotta",Female,45.0,0,0,347073,7.75,Unknown,Southampton
+278,No,Second Class,"Parkes, Mr. Francis ""Frank""",Male,28.0,0,0,239853,0.0,Unknown,Southampton
+279,No,Third Class,"Rice, Master. Eric",Male,7.0,4,1,382652,29.12,Unknown,Queenstown
+280,Yes,Third Class,"Abbott, Mrs. Stanton (Rosa Hunt)",Female,35.0,1,1,C.A. 2673,20.25,Unknown,Southampton
+281,No,Third Class,"Duane, Mr. Frank",Male,65.0,0,0,336439,7.75,Unknown,Queenstown
+282,No,Third Class,"Olsson, Mr. Nils Johan Goransson",Male,28.0,0,0,347464,7.85,Unknown,Southampton
+283,No,Third Class,"de Pelsmaeker, Mr. Alfons",Male,16.0,0,0,345778,9.5,Unknown,Southampton
+284,Yes,Third Class,"Dorking, Mr. Edward Arthur",Male,19.0,0,0,A/5. 10482,8.05,Unknown,Southampton
+285,No,First Class,"Smith, Mr. Richard William",Male,28.0,0,0,113056,26.0,A19,Southampton
+286,No,Third Class,"Stankovic, Mr. Ivan",Male,33.0,0,0,349239,8.66,Unknown,Cherbourg
+287,Yes,Third Class,"de Mulder, Mr. Theodore",Male,30.0,0,0,345774,9.5,Unknown,Southampton
+288,No,Third Class,"Naidenoff, Mr. Penko",Male,22.0,0,0,349206,7.9,Unknown,Southampton
+289,Yes,Second Class,"Hosono, Mr. Masabumi",Male,42.0,0,0,237798,13.0,Unknown,Southampton
+290,Yes,Third Class,"Connolly, Miss. Kate",Female,22.0,0,0,370373,7.75,Unknown,Queenstown
+291,Yes,First Class,"Barber, Miss. Ellen ""Nellie""",Female,26.0,0,0,19877,78.85,Unknown,Southampton
+292,Yes,First Class,"Bishop, Mrs. Dickinson H (Helen Walton)",Female,19.0,1,0,11967,91.08,B49,Cherbourg
+293,No,Second Class,"Levy, Mr. Rene Jacques",Male,36.0,0,0,SC/Paris 2163,12.88,D,Cherbourg
+294,No,Third Class,"Haas, Miss. Aloisia",Female,24.0,0,0,349236,8.85,Unknown,Southampton
+295,No,Third Class,"Mineff, Mr. Ivan",Male,24.0,0,0,349233,7.9,Unknown,Southampton
+296,No,First Class,"Lewy, Mr. Ervin G",Male,28.0,0,0,PC 17612,27.72,Unknown,Cherbourg
+297,No,Third Class,"Hanna, Mr. Mansour",Male,23.5,0,0,2693,7.23,Unknown,Cherbourg
+298,No,First Class,"Allison, Miss. Helen Loraine",Female,2.0,1,2,113781,151.55,C22 C26,Southampton
+299,Yes,First Class,"Saalfeld, Mr. Adolphe",Male,28.0,0,0,19988,30.5,C106,Southampton
+300,Yes,First Class,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Female,50.0,0,1,PC 17558,247.52,B58 B60,Cherbourg
+301,Yes,Third Class,"Kelly, Miss. Anna Katherine ""Annie Kate""",Female,28.0,0,0,9234,7.75,Unknown,Queenstown
+302,Yes,Third Class,"McCoy, Mr. Bernard",Male,28.0,2,0,367226,23.25,Unknown,Queenstown
+303,No,Third Class,"Johnson, Mr. William Cahoone Jr",Male,19.0,0,0,LINE,0.0,Unknown,Southampton
+304,Yes,Second Class,"Keane, Miss. Nora A",Female,28.0,0,0,226593,12.35,E101,Queenstown
+305,No,Third Class,"Williams, Mr. Howard Hugh ""Harry""",Male,28.0,0,0,A/5 2466,8.05,Unknown,Southampton
+306,Yes,First Class,"Allison, Master. Hudson Trevor",Male,0.92,1,2,113781,151.55,C22 C26,Southampton
+307,Yes,First Class,"Fleming, Miss. Margaret",Female,28.0,0,0,17421,110.88,Unknown,Cherbourg
+308,Yes,First Class,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Female,17.0,1,0,PC 17758,108.9,C65,Cherbourg
+309,No,Second Class,"Abelson, Mr. Samuel",Male,30.0,1,0,P/PP 3381,24.0,Unknown,Cherbourg
+310,Yes,First Class,"Francatelli, Miss. Laura Mabel",Female,30.0,0,0,PC 17485,56.93,E36,Cherbourg
+311,Yes,First Class,"Hays, Miss. Margaret Bechstein",Female,24.0,0,0,11767,83.16,C54,Cherbourg
+312,Yes,First Class,"Ryerson, Miss. Emily Borie",Female,18.0,2,2,PC 17608,262.38,B57 B59 B63 B66,Cherbourg
+313,No,Second Class,"Lahtinen, Mrs. William (Anna Sylfven)",Female,26.0,1,1,250651,26.0,Unknown,Southampton
+314,No,Third Class,"Hendekovic, Mr. Ignjac",Male,28.0,0,0,349243,7.9,Unknown,Southampton
+315,No,Second Class,"Hart, Mr. Benjamin",Male,43.0,1,1,F.C.C. 13529,26.25,Unknown,Southampton
+316,Yes,Third Class,"Nilsson, Miss. Helmina Josefina",Female,26.0,0,0,347470,7.85,Unknown,Southampton
+317,Yes,Second Class,"Kantor, Mrs. Sinai (Miriam Sternin)",Female,24.0,1,0,244367,26.0,Unknown,Southampton
+318,No,Second Class,"Moraweck, Dr. Ernest",Male,54.0,0,0,29011,14.0,Unknown,Southampton
+319,Yes,First Class,"Wick, Miss. Mary Natalie",Female,31.0,0,2,36928,164.87,C7,Southampton
+320,Yes,First Class,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Female,40.0,1,1,16966,134.5,E34,Cherbourg
+321,No,Third Class,"Dennis, Mr. Samuel",Male,22.0,0,0,A/5 21172,7.25,Unknown,Southampton
+322,No,Third Class,"Danoff, Mr. Yoto",Male,27.0,0,0,349219,7.9,Unknown,Southampton
+323,Yes,Second Class,"Slayter, Miss. Hilda Mary",Female,30.0,0,0,234818,12.35,Unknown,Queenstown
+324,Yes,Second Class,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Female,22.0,1,1,248738,29.0,Unknown,Southampton
+325,No,Third Class,"Sage, Mr. George John Jr",Male,28.0,8,2,CA. 2343,69.55,Unknown,Southampton
+326,Yes,First Class,"Young, Miss. Marie Grice",Female,36.0,0,0,PC 17760,135.63,C32,Cherbourg
+327,No,Third Class,"Nysveen, Mr. Johan Hansen",Male,61.0,0,0,345364,6.24,Unknown,Southampton
+328,Yes,Second Class,"Ball, Mrs. (Ada E Hall)",Female,36.0,0,0,28551,13.0,D,Southampton
+329,Yes,Third Class,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Female,31.0,1,1,363291,20.52,Unknown,Southampton
+330,Yes,First Class,"Hippach, Miss. Jean Gertrude",Female,16.0,0,1,111361,57.98,B18,Cherbourg
+331,Yes,Third Class,"McCoy, Miss. Agnes",Female,28.0,2,0,367226,23.25,Unknown,Queenstown
+332,No,First Class,"Partner, Mr. Austen",Male,45.5,0,0,113043,28.5,C124,Southampton
+333,No,First Class,"Graham, Mr. George Edward",Male,38.0,0,1,PC 17582,153.46,C91,Southampton
+334,No,Third Class,"Vander Planke, Mr. Leo Edmondus",Male,16.0,2,0,345764,18.0,Unknown,Southampton
+335,Yes,First Class,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Female,28.0,1,0,PC 17611,133.65,Unknown,Southampton
+336,No,Third Class,"Denkoff, Mr. Mitto",Male,28.0,0,0,349225,7.9,Unknown,Southampton
+337,No,First Class,"Pears, Mr. Thomas Clinton",Male,29.0,1,0,113776,66.6,C2,Southampton
+338,Yes,First Class,"Burns, Miss. Elizabeth Margaret",Female,41.0,0,0,16966,134.5,E40,Cherbourg
+339,Yes,Third Class,"Dahl, Mr. Karl Edwart",Male,45.0,0,0,7598,8.05,Unknown,Southampton
+340,No,First Class,"Blackwell, Mr. Stephen Weart",Male,45.0,0,0,113784,35.5,T,Southampton
+341,Yes,Second Class,"Navratil, Master. Edmond Roger",Male,2.0,1,1,230080,26.0,F2,Southampton
+342,Yes,First Class,"Fortune, Miss. Alice Elizabeth",Female,24.0,3,2,19950,263.0,C23 C25 C27,Southampton
+343,No,Second Class,"Collander, Mr. Erik Gustaf",Male,28.0,0,0,248740,13.0,Unknown,Southampton
+344,No,Second Class,"Sedgwick, Mr. Charles Frederick Waddington",Male,25.0,0,0,244361,13.0,Unknown,Southampton
+345,No,Second Class,"Fox, Mr. Stanley Hubert",Male,36.0,0,0,229236,13.0,Unknown,Southampton
+346,Yes,Second Class,"Brown, Miss. Amelia ""Mildred""",Female,24.0,0,0,248733,13.0,F33,Southampton
+347,Yes,Second Class,"Smith, Miss. Marion Elsie",Female,40.0,0,0,31418,13.0,Unknown,Southampton
+348,Yes,Third Class,"Davison, Mrs. Thomas Henry (Mary E Finck)",Female,28.0,1,0,386525,16.1,Unknown,Southampton
+349,Yes,Third Class,"Coutts, Master. William Loch ""William""",Male,3.0,1,1,C.A. 37671,15.9,Unknown,Southampton
+350,No,Third Class,"Dimic, Mr. Jovan",Male,42.0,0,0,315088,8.66,Unknown,Southampton
+351,No,Third Class,"Odahl, Mr. Nils Martin",Male,23.0,0,0,7267,9.22,Unknown,Southampton
+352,No,First Class,"Williams-Lambert, Mr. Fletcher Fellows",Male,28.0,0,0,113510,35.0,C128,Southampton
+353,No,Third Class,"Elias, Mr. Tannous",Male,15.0,1,1,2695,7.23,Unknown,Cherbourg
+354,No,Third Class,"Arnold-Franchi, Mr. Josef",Male,25.0,1,0,349237,17.8,Unknown,Southampton
+355,No,Third Class,"Yousif, Mr. Wazli",Male,28.0,0,0,2647,7.22,Unknown,Cherbourg
+356,No,Third Class,"Vanden Steen, Mr. Leo Peter",Male,28.0,0,0,345783,9.5,Unknown,Southampton
+357,Yes,First Class,"Bowerman, Miss. Elsie Edith",Female,22.0,0,1,113505,55.0,E33,Southampton
+358,No,Second Class,"Funk, Miss. Annie Clemmer",Female,38.0,0,0,237671,13.0,Unknown,Southampton
+359,Yes,Third Class,"McGovern, Miss. Mary",Female,28.0,0,0,330931,7.88,Unknown,Queenstown
+360,Yes,Third Class,"Mockler, Miss. Helen Mary ""Ellie""",Female,28.0,0,0,330980,7.88,Unknown,Queenstown
+361,No,Third Class,"Skoog, Mr. Wilhelm",Male,40.0,1,4,347088,27.9,Unknown,Southampton
+362,No,Second Class,"del Carlo, Mr. Sebastiano",Male,29.0,1,0,SC/PARIS 2167,27.72,Unknown,Cherbourg
+363,No,Third Class,"Barbara, Mrs. (Catherine David)",Female,45.0,0,1,2691,14.45,Unknown,Cherbourg
+364,No,Third Class,"Asim, Mr. Adola",Male,35.0,0,0,SOTON/O.Q. 3101310,7.05,Unknown,Southampton
+365,No,Third Class,"O'Brien, Mr. Thomas",Male,28.0,1,0,370365,15.5,Unknown,Queenstown
+366,No,Third Class,"Adahl, Mr. Mauritz Nils Martin",Male,30.0,0,0,C 7076,7.25,Unknown,Southampton
+367,Yes,First Class,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Female,60.0,1,0,110813,75.25,D37,Cherbourg
+368,Yes,Third Class,"Moussa, Mrs. (Mantoura Boulos)",Female,28.0,0,0,2626,7.23,Unknown,Cherbourg
+369,Yes,Third Class,"Jermyn, Miss. Annie",Female,28.0,0,0,14313,7.75,Unknown,Queenstown
+370,Yes,First Class,"Aubart, Mme. Leontine Pauline",Female,24.0,0,0,PC 17477,69.3,B35,Cherbourg
+371,Yes,First Class,"Harder, Mr. George Achilles",Male,25.0,1,0,11765,55.44,E50,Cherbourg
+372,No,Third Class,"Wiklund, Mr. Jakob Alfred",Male,18.0,1,0,3101267,6.5,Unknown,Southampton
+373,No,Third Class,"Beavan, Mr. William Thomas",Male,19.0,0,0,323951,8.05,Unknown,Southampton
+374,No,First Class,"Ringhini, Mr. Sante",Male,22.0,0,0,PC 17760,135.63,Unknown,Cherbourg
+375,No,Third Class,"Palsson, Miss. Stina Viola",Female,3.0,3,1,349909,21.08,Unknown,Southampton
+376,Yes,First Class,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Female,28.0,1,0,PC 17604,82.17,Unknown,Cherbourg
+377,Yes,Third Class,"Landergren, Miss. Aurora Adelia",Female,22.0,0,0,C 7077,7.25,Unknown,Southampton
+378,No,First Class,"Widener, Mr. Harry Elkins",Male,27.0,0,2,113503,211.5,C82,Cherbourg
+379,No,Third Class,"Betros, Mr. Tannous",Male,20.0,0,0,2648,4.01,Unknown,Cherbourg
+380,No,Third Class,"Gustafsson, Mr. Karl Gideon",Male,19.0,0,0,347069,7.78,Unknown,Southampton
+381,Yes,First Class,"Bidois, Miss. Rosalie",Female,42.0,0,0,PC 17757,227.52,Unknown,Cherbourg
+382,Yes,Third Class,"Nakid, Miss. Maria (""Mary"")",Female,1.0,0,2,2653,15.74,Unknown,Cherbourg
+383,No,Third Class,"Tikkanen, Mr. Juho",Male,32.0,0,0,STON/O 2. 3101293,7.92,Unknown,Southampton
+384,Yes,First Class,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Female,35.0,1,0,113789,52.0,Unknown,Southampton
+385,No,Third Class,"Plotcharsky, Mr. Vasil",Male,28.0,0,0,349227,7.9,Unknown,Southampton
+386,No,Second Class,"Davies, Mr. Charles Henry",Male,18.0,0,0,S.O.C. 14879,73.5,Unknown,Southampton
+387,No,Third Class,"Goodwin, Master. Sidney Leonard",Male,1.0,5,2,CA 2144,46.9,Unknown,Southampton
+388,Yes,Second Class,"Buss, Miss. Kate",Female,36.0,0,0,27849,13.0,Unknown,Southampton
+389,No,Third Class,"Sadlier, Mr. Matthew",Male,28.0,0,0,367655,7.73,Unknown,Queenstown
+390,Yes,Second Class,"Lehmann, Miss. Bertha",Female,17.0,0,0,SC 1748,12.0,Unknown,Cherbourg
+391,Yes,First Class,"Carter, Mr. William Ernest",Male,36.0,1,2,113760,120.0,B96 B98,Southampton
+392,Yes,Third Class,"Jansson, Mr. Carl Olof",Male,21.0,0,0,350034,7.8,Unknown,Southampton
+393,No,Third Class,"Gustafsson, Mr. Johan Birger",Male,28.0,2,0,3101277,7.92,Unknown,Southampton
+394,Yes,First Class,"Newell, Miss. Marjorie",Female,23.0,1,0,35273,113.28,D36,Cherbourg
+395,Yes,Third Class,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Female,24.0,0,2,PP 9549,16.7,G6,Southampton
+396,No,Third Class,"Johansson, Mr. Erik",Male,22.0,0,0,350052,7.8,Unknown,Southampton
+397,No,Third Class,"Olsson, Miss. Elina",Female,31.0,0,0,350407,7.85,Unknown,Southampton
+398,No,Second Class,"McKane, Mr. Peter David",Male,46.0,0,0,28403,26.0,Unknown,Southampton
+399,No,Second Class,"Pain, Dr. Alfred",Male,23.0,0,0,244278,10.5,Unknown,Southampton
+400,Yes,Second Class,"Trout, Mrs. William H (Jessie L)",Female,28.0,0,0,240929,12.65,Unknown,Southampton
+401,Yes,Third Class,"Niskanen, Mr. Juha",Male,39.0,0,0,STON/O 2. 3101289,7.92,Unknown,Southampton
+402,No,Third Class,"Adams, Mr. John",Male,26.0,0,0,341826,8.05,Unknown,Southampton
+403,No,Third Class,"Jussila, Miss. Mari Aina",Female,21.0,1,0,4137,9.82,Unknown,Southampton
+404,No,Third Class,"Hakkarainen, Mr. Pekka Pietari",Male,28.0,1,0,STON/O2. 3101279,15.85,Unknown,Southampton
+405,No,Third Class,"Oreskovic, Miss. Marija",Female,20.0,0,0,315096,8.66,Unknown,Southampton
+406,No,Second Class,"Gale, Mr. Shadrach",Male,34.0,1,0,28664,21.0,Unknown,Southampton
+407,No,Third Class,"Widegren, Mr. Carl/Charles Peter",Male,51.0,0,0,347064,7.75,Unknown,Southampton
+408,Yes,Second Class,"Richards, Master. William Rowe",Male,3.0,1,1,29106,18.75,Unknown,Southampton
+409,No,Third Class,"Birkeland, Mr. Hans Martin Monsen",Male,21.0,0,0,312992,7.78,Unknown,Southampton
+410,No,Third Class,"Lefebre, Miss. Ida",Female,28.0,3,1,4133,25.47,Unknown,Southampton
+411,No,Third Class,"Sdycoff, Mr. Todor",Male,28.0,0,0,349222,7.9,Unknown,Southampton
+412,No,Third Class,"Hart, Mr. Henry",Male,28.0,0,0,394140,6.86,Unknown,Queenstown
+413,Yes,First Class,"Minahan, Miss. Daisy E",Female,33.0,1,0,19928,90.0,C78,Queenstown
+414,No,Second Class,"Cunningham, Mr. Alfred Fleming",Male,28.0,0,0,239853,0.0,Unknown,Southampton
+415,Yes,Third Class,"Sundman, Mr. Johan Julian",Male,44.0,0,0,STON/O 2. 3101269,7.92,Unknown,Southampton
+416,No,Third Class,"Meek, Mrs. Thomas (Annie Louise Rowley)",Female,28.0,0,0,343095,8.05,Unknown,Southampton
+417,Yes,Second Class,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Female,34.0,1,1,28220,32.5,Unknown,Southampton
+418,Yes,Second Class,"Silven, Miss. Lyyli Karoliina",Female,18.0,0,2,250652,13.0,Unknown,Southampton
+419,No,Second Class,"Matthews, Mr. William John",Male,30.0,0,0,28228,13.0,Unknown,Southampton
+420,No,Third Class,"Van Impe, Miss. Catharina",Female,10.0,0,2,345773,24.15,Unknown,Southampton
+421,No,Third Class,"Gheorgheff, Mr. Stanio",Male,28.0,0,0,349254,7.9,Unknown,Cherbourg
+422,No,Third Class,"Charters, Mr. David",Male,21.0,0,0,A/5. 13032,7.73,Unknown,Queenstown
+423,No,Third Class,"Zimmerman, Mr. Leo",Male,29.0,0,0,315082,7.88,Unknown,Southampton
+424,No,Third Class,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Female,28.0,1,1,347080,14.4,Unknown,Southampton
+425,No,Third Class,"Rosblom, Mr. Viktor Richard",Male,18.0,1,1,370129,20.21,Unknown,Southampton
+426,No,Third Class,"Wiseman, Mr. Phillippe",Male,28.0,0,0,A/4. 34244,7.25,Unknown,Southampton
+427,Yes,Second Class,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Female,28.0,1,0,2003,26.0,Unknown,Southampton
+428,Yes,Second Class,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Female,19.0,0,0,250655,26.0,Unknown,Southampton
+429,No,Third Class,"Flynn, Mr. James",Male,28.0,0,0,364851,7.75,Unknown,Queenstown
+430,Yes,Third Class,"Pickard, Mr. Berk (Berk Trembisky)",Male,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,Southampton
+431,Yes,First Class,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Male,28.0,0,0,110564,26.55,C52,Southampton
+432,Yes,Third Class,"Thorneycroft, Mrs. Percival (Florence Kate White)",Female,28.0,1,0,376564,16.1,Unknown,Southampton
+433,Yes,Second Class,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Female,42.0,1,0,SC/AH 3085,26.0,Unknown,Southampton
+434,No,Third Class,"Kallio, Mr. Nikolai Erland",Male,17.0,0,0,STON/O 2. 3101274,7.12,Unknown,Southampton
+435,No,First Class,"Silvey, Mr. William Baird",Male,50.0,1,0,13507,55.9,E44,Southampton
+436,Yes,First Class,"Carter, Miss. Lucile Polk",Female,14.0,1,2,113760,120.0,B96 B98,Southampton
+437,No,Third Class,"Ford, Miss. Doolina Margaret ""Daisy""",Female,21.0,2,2,W./C. 6608,34.38,Unknown,Southampton
+438,Yes,Second Class,"Richards, Mrs. Sidney (Emily Hocking)",Female,24.0,2,3,29106,18.75,Unknown,Southampton
+439,No,First Class,"Fortune, Mr. Mark",Male,64.0,1,4,19950,263.0,C23 C25 C27,Southampton
+440,No,Second Class,"Kvillner, Mr. Johan Henrik Johannesson",Male,31.0,0,0,C.A. 18723,10.5,Unknown,Southampton
+441,Yes,Second Class,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Female,45.0,1,1,F.C.C. 13529,26.25,Unknown,Southampton
+442,No,Third Class,"Hampe, Mr. Leon",Male,20.0,0,0,345769,9.5,Unknown,Southampton
+443,No,Third Class,"Petterson, Mr. Johan Emil",Male,25.0,1,0,347076,7.78,Unknown,Southampton
+444,Yes,Second Class,"Reynaldo, Ms. Encarnacion",Female,28.0,0,0,230434,13.0,Unknown,Southampton
+445,Yes,Third Class,"Johannesen-Bratthammer, Mr. Bernt",Male,28.0,0,0,65306,8.11,Unknown,Southampton
+446,Yes,First Class,"Dodge, Master. Washington",Male,4.0,0,2,33638,81.86,A34,Southampton
+447,Yes,Second Class,"Mellinger, Miss. Madeleine Violet",Female,13.0,0,1,250644,19.5,Unknown,Southampton
+448,Yes,First Class,"Seward, Mr. Frederic Kimber",Male,34.0,0,0,113794,26.55,Unknown,Southampton
+449,Yes,Third Class,"Baclini, Miss. Marie Catherine",Female,5.0,2,1,2666,19.26,Unknown,Cherbourg
+450,Yes,First Class,"Peuchen, Major. Arthur Godfrey",Male,52.0,0,0,113786,30.5,C104,Southampton
+451,No,Second Class,"West, Mr. Edwy Arthur",Male,36.0,1,2,C.A. 34651,27.75,Unknown,Southampton
+452,No,Third Class,"Hagland, Mr. Ingvald Olai Olsen",Male,28.0,1,0,65303,19.97,Unknown,Southampton
+453,No,First Class,"Foreman, Mr. Benjamin Laventall",Male,30.0,0,0,113051,27.75,C111,Cherbourg
+454,Yes,First Class,"Goldenberg, Mr. Samuel L",Male,49.0,1,0,17453,89.1,C92,Cherbourg
+455,No,Third Class,"Peduzzi, Mr. Joseph",Male,28.0,0,0,A/5 2817,8.05,Unknown,Southampton
+456,Yes,Third Class,"Jalsevac, Mr. Ivan",Male,29.0,0,0,349240,7.9,Unknown,Cherbourg
+457,No,First Class,"Millet, Mr. Francis Davis",Male,65.0,0,0,13509,26.55,E38,Southampton
+458,Yes,First Class,"Kenyon, Mrs. Frederick R (Marion)",Female,28.0,1,0,17464,51.86,D21,Southampton
+459,Yes,Second Class,"Toomey, Miss. Ellen",Female,50.0,0,0,F.C.C. 13531,10.5,Unknown,Southampton
+460,No,Third Class,"O'Connor, Mr. Maurice",Male,28.0,0,0,371060,7.75,Unknown,Queenstown
+461,Yes,First Class,"Anderson, Mr. Harry",Male,48.0,0,0,19952,26.55,E12,Southampton
+462,No,Third Class,"Morley, Mr. William",Male,34.0,0,0,364506,8.05,Unknown,Southampton
+463,No,First Class,"Gee, Mr. Arthur H",Male,47.0,0,0,111320,38.5,E63,Southampton
+464,No,Second Class,"Milling, Mr. Jacob Christian",Male,48.0,0,0,234360,13.0,Unknown,Southampton
+465,No,Third Class,"Maisner, Mr. Simon",Male,28.0,0,0,A/S 2816,8.05,Unknown,Southampton
+466,No,Third Class,"Goncalves, Mr. Manuel Estanslas",Male,38.0,0,0,SOTON/O.Q. 3101306,7.05,Unknown,Southampton
+467,No,Second Class,"Campbell, Mr. William",Male,28.0,0,0,239853,0.0,Unknown,Southampton
+468,No,First Class,"Smart, Mr. John Montgomery",Male,56.0,0,0,113792,26.55,Unknown,Southampton
+469,No,Third Class,"Scanlan, Mr. James",Male,28.0,0,0,36209,7.72,Unknown,Queenstown
+470,Yes,Third Class,"Baclini, Miss. Helene Barbara",Female,0.75,2,1,2666,19.26,Unknown,Cherbourg
+471,No,Third Class,"Keefe, Mr. Arthur",Male,28.0,0,0,323592,7.25,Unknown,Southampton
+472,No,Third Class,"Cacic, Mr. Luka",Male,38.0,0,0,315089,8.66,Unknown,Southampton
+473,Yes,Second Class,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Female,33.0,1,2,C.A. 34651,27.75,Unknown,Southampton
+474,Yes,Second Class,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Female,23.0,0,0,SC/AH Basle 541,13.79,D,Cherbourg
+475,No,Third Class,"Strandberg, Miss. Ida Sofia",Female,22.0,0,0,7553,9.84,Unknown,Southampton
+476,No,First Class,"Clifford, Mr. George Quincy",Male,28.0,0,0,110465,52.0,A14,Southampton
+477,No,Second Class,"Renouf, Mr. Peter Henry",Male,34.0,1,0,31027,21.0,Unknown,Southampton
+478,No,Third Class,"Braund, Mr. Lewis Richard",Male,29.0,1,0,3460,7.05,Unknown,Southampton
+479,No,Third Class,"Karlsson, Mr. Nils August",Male,22.0,0,0,350060,7.52,Unknown,Southampton
+480,Yes,Third Class,"Hirvonen, Miss. Hildur E",Female,2.0,0,1,3101298,12.29,Unknown,Southampton
+481,No,Third Class,"Goodwin, Master. Harold Victor",Male,9.0,5,2,CA 2144,46.9,Unknown,Southampton
+482,No,Second Class,"Frost, Mr. Anthony Wood ""Archie""",Male,28.0,0,0,239854,0.0,Unknown,Southampton
+483,No,Third Class,"Rouse, Mr. Richard Henry",Male,50.0,0,0,A/5 3594,8.05,Unknown,Southampton
+484,Yes,Third Class,"Turkula, Mrs. (Hedwig)",Female,63.0,0,0,4134,9.59,Unknown,Southampton
+485,Yes,First Class,"Bishop, Mr. Dickinson H",Male,25.0,1,0,11967,91.08,B49,Cherbourg
+486,No,Third Class,"Lefebre, Miss. Jeannie",Female,28.0,3,1,4133,25.47,Unknown,Southampton
+487,Yes,First Class,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Female,35.0,1,0,19943,90.0,C93,Southampton
+488,No,First Class,"Kent, Mr. Edward Austin",Male,58.0,0,0,11771,29.7,B37,Cherbourg
+489,No,Third Class,"Somerton, Mr. Francis William",Male,30.0,0,0,A.5. 18509,8.05,Unknown,Southampton
+490,Yes,Third Class,"Coutts, Master. Eden Leslie ""Neville""",Male,9.0,1,1,C.A. 37671,15.9,Unknown,Southampton
+491,No,Third Class,"Hagland, Mr. Konrad Mathias Reiersen",Male,28.0,1,0,65304,19.97,Unknown,Southampton
+492,No,Third Class,"Windelov, Mr. Einar",Male,21.0,0,0,SOTON/OQ 3101317,7.25,Unknown,Southampton
+493,No,First Class,"Molson, Mr. Harry Markland",Male,55.0,0,0,113787,30.5,C30,Southampton
+494,No,First Class,"Artagaveytia, Mr. Ramon",Male,71.0,0,0,PC 17609,49.5,Unknown,Cherbourg
+495,No,Third Class,"Stanley, Mr. Edward Roland",Male,21.0,0,0,A/4 45380,8.05,Unknown,Southampton
+496,No,Third Class,"Yousseff, Mr. Gerious",Male,28.0,0,0,2627,14.46,Unknown,Cherbourg
+497,Yes,First Class,"Eustis, Miss. Elizabeth Mussey",Female,54.0,1,0,36947,78.27,D20,Cherbourg
+498,No,Third Class,"Shellard, Mr. Frederick William",Male,28.0,0,0,C.A. 6212,15.1,Unknown,Southampton
+499,No,First Class,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Female,25.0,1,2,113781,151.55,C22 C26,Southampton
+500,No,Third Class,"Svensson, Mr. Olof",Male,24.0,0,0,350035,7.8,Unknown,Southampton
+501,No,Third Class,"Calic, Mr. Petar",Male,17.0,0,0,315086,8.66,Unknown,Southampton
+502,No,Third Class,"Canavan, Miss. Mary",Female,21.0,0,0,364846,7.75,Unknown,Queenstown
+503,No,Third Class,"O'Sullivan, Miss. Bridget Mary",Female,28.0,0,0,330909,7.63,Unknown,Queenstown
+504,No,Third Class,"Laitinen, Miss. Kristina Sofia",Female,37.0,0,0,4135,9.59,Unknown,Southampton
+505,Yes,First Class,"Maioni, Miss. Roberta",Female,16.0,0,0,110152,86.5,B79,Southampton
+506,No,First Class,"Penasco y Castellana, Mr. Victor de Satode",Male,18.0,1,0,PC 17758,108.9,C65,Cherbourg
+507,Yes,Second Class,"Quick, Mrs. Frederick Charles (Jane Richards)",Female,33.0,0,2,26360,26.0,Unknown,Southampton
+508,Yes,First Class,"Bradley, Mr. George (""George Arthur Brayton"")",Male,28.0,0,0,111427,26.55,Unknown,Southampton
+509,No,Third Class,"Olsen, Mr. Henry Margido",Male,28.0,0,0,C 4001,22.52,Unknown,Southampton
+510,Yes,Third Class,"Lang, Mr. Fang",Male,26.0,0,0,1601,56.5,Unknown,Southampton
+511,Yes,Third Class,"Daly, Mr. Eugene Patrick",Male,29.0,0,0,382651,7.75,Unknown,Queenstown
+512,No,Third Class,"Webber, Mr. James",Male,28.0,0,0,SOTON/OQ 3101316,8.05,Unknown,Southampton
+513,Yes,First Class,"McGough, Mr. James Robert",Male,36.0,0,0,PC 17473,26.29,E25,Southampton
+514,Yes,First Class,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Female,54.0,1,0,PC 17603,59.4,Unknown,Cherbourg
+515,No,Third Class,"Coleff, Mr. Satio",Male,24.0,0,0,349209,7.5,Unknown,Southampton
+516,No,First Class,"Walker, Mr. William Anderson",Male,47.0,0,0,36967,34.02,D46,Southampton
+517,Yes,Second Class,"Lemore, Mrs. (Amelia Milley)",Female,34.0,0,0,C.A. 34260,10.5,F33,Southampton
+518,No,Third Class,"Ryan, Mr. Patrick",Male,28.0,0,0,371110,24.15,Unknown,Queenstown
+519,Yes,Second Class,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Female,36.0,1,0,226875,26.0,Unknown,Southampton
+520,No,Third Class,"Pavlovic, Mr. Stefo",Male,32.0,0,0,349242,7.9,Unknown,Southampton
+521,Yes,First Class,"Perreault, Miss. Anne",Female,30.0,0,0,12749,93.5,B73,Southampton
+522,No,Third Class,"Vovk, Mr. Janko",Male,22.0,0,0,349252,7.9,Unknown,Southampton
+523,No,Third Class,"Lahoud, Mr. Sarkis",Male,28.0,0,0,2624,7.22,Unknown,Cherbourg
+524,Yes,First Class,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Female,44.0,0,1,111361,57.98,B18,Cherbourg
+525,No,Third Class,"Kassem, Mr. Fared",Male,28.0,0,0,2700,7.23,Unknown,Cherbourg
+526,No,Third Class,"Farrell, Mr. James",Male,40.5,0,0,367232,7.75,Unknown,Queenstown
+527,Yes,Second Class,"Ridsdale, Miss. Lucy",Female,50.0,0,0,W./C. 14258,10.5,Unknown,Southampton
+528,No,First Class,"Farthing, Mr. John",Male,28.0,0,0,PC 17483,221.78,C95,Southampton
+529,No,Third Class,"Salonen, Mr. Johan Werner",Male,39.0,0,0,3101296,7.92,Unknown,Southampton
+530,No,Second Class,"Hocking, Mr. Richard George",Male,23.0,2,1,29104,11.5,Unknown,Southampton
+531,Yes,Second Class,"Quick, Miss. Phyllis May",Female,2.0,1,1,26360,26.0,Unknown,Southampton
+532,No,Third Class,"Toufik, Mr. Nakli",Male,28.0,0,0,2641,7.23,Unknown,Cherbourg
+533,No,Third Class,"Elias, Mr. Joseph Jr",Male,17.0,1,1,2690,7.23,Unknown,Cherbourg
+534,Yes,Third Class,"Peter, Mrs. Catherine (Catherine Rizk)",Female,28.0,0,2,2668,22.36,Unknown,Cherbourg
+535,No,Third Class,"Cacic, Miss. Marija",Female,30.0,0,0,315084,8.66,Unknown,Southampton
+536,Yes,Second Class,"Hart, Miss. Eva Miriam",Female,7.0,0,2,F.C.C. 13529,26.25,Unknown,Southampton
+537,No,First Class,"Butt, Major. Archibald Willingham",Male,45.0,0,0,113050,26.55,B38,Southampton
+538,Yes,First Class,"LeRoy, Miss. Bertha",Female,30.0,0,0,PC 17761,106.42,Unknown,Cherbourg
+539,No,Third Class,"Risien, Mr. Samuel Beard",Male,28.0,0,0,364498,14.5,Unknown,Southampton
+540,Yes,First Class,"Frolicher, Miss. Hedwig Margaritha",Female,22.0,0,2,13568,49.5,B39,Cherbourg
+541,Yes,First Class,"Crosby, Miss. Harriet R",Female,36.0,0,2,WE/P 5735,71.0,B22,Southampton
+542,No,Third Class,"Andersson, Miss. Ingeborg Constanzia",Female,9.0,4,2,347082,31.28,Unknown,Southampton
+543,No,Third Class,"Andersson, Miss. Sigrid Elisabeth",Female,11.0,4,2,347082,31.28,Unknown,Southampton
+544,Yes,Second Class,"Beane, Mr. Edward",Male,32.0,1,0,2908,26.0,Unknown,Southampton
+545,No,First Class,"Douglas, Mr. Walter Donald",Male,50.0,1,0,PC 17761,106.42,C86,Cherbourg
+546,No,First Class,"Nicholson, Mr. Arthur Ernest",Male,64.0,0,0,693,26.0,Unknown,Southampton
+547,Yes,Second Class,"Beane, Mrs. Edward (Ethel Clarke)",Female,19.0,1,0,2908,26.0,Unknown,Southampton
+548,Yes,Second Class,"Padro y Manent, Mr. Julian",Male,28.0,0,0,SC/PARIS 2146,13.86,Unknown,Cherbourg
+549,No,Third Class,"Goldsmith, Mr. Frank John",Male,33.0,1,1,363291,20.52,Unknown,Southampton
+550,Yes,Second Class,"Davies, Master. John Morgan Jr",Male,8.0,1,1,C.A. 33112,36.75,Unknown,Southampton
+551,Yes,First Class,"Thayer, Mr. John Borland Jr",Male,17.0,0,2,17421,110.88,C70,Cherbourg
+552,No,Second Class,"Sharp, Mr. Percival James R",Male,27.0,0,0,244358,26.0,Unknown,Southampton
+553,No,Third Class,"O'Brien, Mr. Timothy",Male,28.0,0,0,330979,7.83,Unknown,Queenstown
+554,Yes,Third Class,"Leeni, Mr. Fahim (""Philip Zenni"")",Male,22.0,0,0,2620,7.22,Unknown,Cherbourg
+555,Yes,Third Class,"Ohman, Miss. Velin",Female,22.0,0,0,347085,7.78,Unknown,Southampton
+556,No,First Class,"Wright, Mr. George",Male,62.0,0,0,113807,26.55,Unknown,Southampton
+557,Yes,First Class,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Female,48.0,1,0,11755,39.6,A16,Cherbourg
+558,No,First Class,"Robbins, Mr. Victor",Male,28.0,0,0,PC 17757,227.52,Unknown,Cherbourg
+559,Yes,First Class,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Female,39.0,1,1,110413,79.65,E67,Southampton
+560,Yes,Third Class,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Female,36.0,1,0,345572,17.4,Unknown,Southampton
+561,No,Third Class,"Morrow, Mr. Thomas Rowan",Male,28.0,0,0,372622,7.75,Unknown,Queenstown
+562,No,Third Class,"Sivic, Mr. Husein",Male,40.0,0,0,349251,7.9,Unknown,Southampton
+563,No,Second Class,"Norman, Mr. Robert Douglas",Male,28.0,0,0,218629,13.5,Unknown,Southampton
+564,No,Third Class,"Simmons, Mr. John",Male,28.0,0,0,SOTON/OQ 392082,8.05,Unknown,Southampton
+565,No,Third Class,"Meanwell, Miss. (Marion Ogden)",Female,28.0,0,0,SOTON/O.Q. 392087,8.05,Unknown,Southampton
+566,No,Third Class,"Davies, Mr. Alfred J",Male,24.0,2,0,A/4 48871,24.15,Unknown,Southampton
+567,No,Third Class,"Stoytcheff, Mr. Ilia",Male,19.0,0,0,349205,7.9,Unknown,Southampton
+568,No,Third Class,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Female,29.0,0,4,349909,21.08,Unknown,Southampton
+569,No,Third Class,"Doharr, Mr. Tannous",Male,28.0,0,0,2686,7.23,Unknown,Cherbourg
+570,Yes,Third Class,"Jonsson, Mr. Carl",Male,32.0,0,0,350417,7.85,Unknown,Southampton
+571,Yes,Second Class,"Harris, Mr. George",Male,62.0,0,0,S.W./PP 752,10.5,Unknown,Southampton
+572,Yes,First Class,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Female,53.0,2,0,11769,51.48,C101,Southampton
+573,Yes,First Class,"Flynn, Mr. John Irwin (""Irving"")",Male,36.0,0,0,PC 17474,26.39,E25,Southampton
+574,Yes,Third Class,"Kelly, Miss. Mary",Female,28.0,0,0,14312,7.75,Unknown,Queenstown
+575,No,Third Class,"Rush, Mr. Alfred George John",Male,16.0,0,0,A/4. 20589,8.05,Unknown,Southampton
+576,No,Third Class,"Patchett, Mr. George",Male,19.0,0,0,358585,14.5,Unknown,Southampton
+577,Yes,Second Class,"Garside, Miss. Ethel",Female,34.0,0,0,243880,13.0,Unknown,Southampton
+578,Yes,First Class,"Silvey, Mrs. William Baird (Alice Munger)",Female,39.0,1,0,13507,55.9,E44,Southampton
+579,No,Third Class,"Caram, Mrs. Joseph (Maria Elias)",Female,28.0,1,0,2689,14.46,Unknown,Cherbourg
+580,Yes,Third Class,"Jussila, Mr. Eiriik",Male,32.0,0,0,STON/O 2. 3101286,7.92,Unknown,Southampton
+581,Yes,Second Class,"Christy, Miss. Julie Rachel",Female,25.0,1,1,237789,30.0,Unknown,Southampton
+582,Yes,First Class,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Female,39.0,1,1,17421,110.88,C68,Cherbourg
+583,No,Second Class,"Downton, Mr. William James",Male,54.0,0,0,28403,26.0,Unknown,Southampton
+584,No,First Class,"Ross, Mr. John Hugo",Male,36.0,0,0,13049,40.12,A10,Cherbourg
+585,No,Third Class,"Paulner, Mr. Uscher",Male,28.0,0,0,3411,8.71,Unknown,Cherbourg
+586,Yes,First Class,"Taussig, Miss. Ruth",Female,18.0,0,2,110413,79.65,E68,Southampton
+587,No,Second Class,"Jarvis, Mr. John Denzil",Male,47.0,0,0,237565,15.0,Unknown,Southampton
+588,Yes,First Class,"Frolicher-Stehli, Mr. Maxmillian",Male,60.0,1,1,13567,79.2,B41,Cherbourg
+589,No,Third Class,"Gilinski, Mr. Eliezer",Male,22.0,0,0,14973,8.05,Unknown,Southampton
+590,No,Third Class,"Murdlin, Mr. Joseph",Male,28.0,0,0,A./5. 3235,8.05,Unknown,Southampton
+591,No,Third Class,"Rintamaki, Mr. Matti",Male,35.0,0,0,STON/O 2. 3101273,7.12,Unknown,Southampton
+592,Yes,First Class,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Female,52.0,1,0,36947,78.27,D20,Cherbourg
+593,No,Third Class,"Elsbury, Mr. William James",Male,47.0,0,0,A/5 3902,7.25,Unknown,Southampton
+594,No,Third Class,"Bourke, Miss. Mary",Female,28.0,0,2,364848,7.75,Unknown,Queenstown
+595,No,Second Class,"Chapman, Mr. John Henry",Male,37.0,1,0,SC/AH 29037,26.0,Unknown,Southampton
+596,No,Third Class,"Van Impe, Mr. Jean Baptiste",Male,36.0,1,1,345773,24.15,Unknown,Southampton
+597,Yes,Second Class,"Leitch, Miss. Jessie Wills",Female,28.0,0,0,248727,33.0,Unknown,Southampton
+598,No,Third Class,"Johnson, Mr. Alfred",Male,49.0,0,0,LINE,0.0,Unknown,Southampton
+599,No,Third Class,"Boulos, Mr. Hanna",Male,28.0,0,0,2664,7.22,Unknown,Cherbourg
+600,Yes,First Class,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Male,49.0,1,0,PC 17485,56.93,A20,Cherbourg
+601,Yes,Second Class,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Female,24.0,2,1,243847,27.0,Unknown,Southampton
+602,No,Third Class,"Slabenoff, Mr. Petco",Male,28.0,0,0,349214,7.9,Unknown,Southampton
+603,No,First Class,"Harrington, Mr. Charles H",Male,28.0,0,0,113796,42.4,Unknown,Southampton
+604,No,Third Class,"Torber, Mr. Ernst William",Male,44.0,0,0,364511,8.05,Unknown,Southampton
+605,Yes,First Class,"Homer, Mr. Harry (""Mr E Haven"")",Male,35.0,0,0,111426,26.55,Unknown,Cherbourg
+606,No,Third Class,"Lindell, Mr. Edvard Bengtsson",Male,36.0,1,0,349910,15.55,Unknown,Southampton
+607,No,Third Class,"Karaic, Mr. Milan",Male,30.0,0,0,349246,7.9,Unknown,Southampton
+608,Yes,First Class,"Daniel, Mr. Robert Williams",Male,27.0,0,0,113804,30.5,Unknown,Southampton
+609,Yes,Second Class,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Female,22.0,1,2,SC/Paris 2123,41.58,Unknown,Cherbourg
+610,Yes,First Class,"Shutes, Miss. Elizabeth W",Female,40.0,0,0,PC 17582,153.46,C125,Southampton
+611,No,Third Class,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Female,39.0,1,5,347082,31.28,Unknown,Southampton
+612,No,Third Class,"Jardin, Mr. Jose Neto",Male,28.0,0,0,SOTON/O.Q. 3101305,7.05,Unknown,Southampton
+613,Yes,Third Class,"Murphy, Miss. Margaret Jane",Female,28.0,1,0,367230,15.5,Unknown,Queenstown
+614,No,Third Class,"Horgan, Mr. John",Male,28.0,0,0,370377,7.75,Unknown,Queenstown
+615,No,Third Class,"Brocklebank, Mr. William Alfred",Male,35.0,0,0,364512,8.05,Unknown,Southampton
+616,Yes,Second Class,"Herman, Miss. Alice",Female,24.0,1,2,220845,65.0,Unknown,Southampton
+617,No,Third Class,"Danbom, Mr. Ernst Gilbert",Male,34.0,1,1,347080,14.4,Unknown,Southampton
+618,No,Third Class,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Female,26.0,1,0,A/5. 3336,16.1,Unknown,Southampton
+619,Yes,Second Class,"Becker, Miss. Marion Louise",Female,4.0,2,1,230136,39.0,F4,Southampton
+620,No,Second Class,"Gavey, Mr. Lawrence",Male,26.0,0,0,31028,10.5,Unknown,Southampton
+621,No,Third Class,"Yasbeck, Mr. Antoni",Male,27.0,1,0,2659,14.45,Unknown,Cherbourg
+622,Yes,First Class,"Kimball, Mr. Edwin Nelson Jr",Male,42.0,1,0,11753,52.55,D19,Southampton
+623,Yes,Third Class,"Nakid, Mr. Sahid",Male,20.0,1,1,2653,15.74,Unknown,Cherbourg
+624,No,Third Class,"Hansen, Mr. Henry Damsgaard",Male,21.0,0,0,350029,7.85,Unknown,Southampton
+625,No,Third Class,"Bowen, Mr. David John ""Dai""",Male,21.0,0,0,54636,16.1,Unknown,Southampton
+626,No,First Class,"Sutton, Mr. Frederick",Male,61.0,0,0,36963,32.32,D50,Southampton
+627,No,Second Class,"Kirkland, Rev. Charles Leonard",Male,57.0,0,0,219533,12.35,Unknown,Queenstown
+628,Yes,First Class,"Longley, Miss. Gretchen Fiske",Female,21.0,0,0,13502,77.96,D9,Southampton
+629,No,Third Class,"Bostandyeff, Mr. Guentcho",Male,26.0,0,0,349224,7.9,Unknown,Southampton
+630,No,Third Class,"O'Connell, Mr. Patrick D",Male,28.0,0,0,334912,7.73,Unknown,Queenstown
+631,Yes,First Class,"Barkworth, Mr. Algernon Henry Wilson",Male,80.0,0,0,27042,30.0,A23,Southampton
+632,No,Third Class,"Lundahl, Mr. Johan Svensson",Male,51.0,0,0,347743,7.05,Unknown,Southampton
+633,Yes,First Class,"Stahelin-Maeglin, Dr. Max",Male,32.0,0,0,13214,30.5,B50,Cherbourg
+634,No,First Class,"Parr, Mr. William Henry Marsh",Male,28.0,0,0,112052,0.0,Unknown,Southampton
+635,No,Third Class,"Skoog, Miss. Mabel",Female,9.0,3,2,347088,27.9,Unknown,Southampton
+636,Yes,Second Class,"Davis, Miss. Mary",Female,28.0,0,0,237668,13.0,Unknown,Southampton
+637,No,Third Class,"Leinonen, Mr. Antti Gustaf",Male,32.0,0,0,STON/O 2. 3101292,7.92,Unknown,Southampton
+638,No,Second Class,"Collyer, Mr. Harvey",Male,31.0,1,1,C.A. 31921,26.25,Unknown,Southampton
+639,No,Third Class,"Panula, Mrs. Juha (Maria Emilia Ojala)",Female,41.0,0,5,3101295,39.69,Unknown,Southampton
+640,No,Third Class,"Thorneycroft, Mr. Percival",Male,28.0,1,0,376564,16.1,Unknown,Southampton
+641,No,Third Class,"Jensen, Mr. Hans Peder",Male,20.0,0,0,350050,7.85,Unknown,Southampton
+642,Yes,First Class,"Sagesser, Mlle. Emma",Female,24.0,0,0,PC 17477,69.3,B35,Cherbourg
+643,No,Third Class,"Skoog, Miss. Margit Elizabeth",Female,2.0,3,2,347088,27.9,Unknown,Southampton
+644,Yes,Third Class,"Foo, Mr. Choong",Male,28.0,0,0,1601,56.5,Unknown,Southampton
+645,Yes,Third Class,"Baclini, Miss. Eugenie",Female,0.75,2,1,2666,19.26,Unknown,Cherbourg
+646,Yes,First Class,"Harper, Mr. Henry Sleeper",Male,48.0,1,0,PC 17572,76.73,D33,Cherbourg
+647,No,Third Class,"Cor, Mr. Liudevit",Male,19.0,0,0,349231,7.9,Unknown,Southampton
+648,Yes,First Class,"Simonius-Blumer, Col. Oberst Alfons",Male,56.0,0,0,13213,35.5,A26,Cherbourg
+649,No,Third Class,"Willey, Mr. Edward",Male,28.0,0,0,S.O./P.P. 751,7.55,Unknown,Southampton
+650,Yes,Third Class,"Stanley, Miss. Amy Zillah Elsie",Female,23.0,0,0,CA. 2314,7.55,Unknown,Southampton
+651,No,Third Class,"Mitkoff, Mr. Mito",Male,28.0,0,0,349221,7.9,Unknown,Southampton
+652,Yes,Second Class,"Doling, Miss. Elsie",Female,18.0,0,1,231919,23.0,Unknown,Southampton
+653,No,Third Class,"Kalvik, Mr. Johannes Halvorsen",Male,21.0,0,0,8475,8.43,Unknown,Southampton
+654,Yes,Third Class,"O'Leary, Miss. Hanora ""Norah""",Female,28.0,0,0,330919,7.83,Unknown,Queenstown
+655,No,Third Class,"Hegarty, Miss. Hanora ""Nora""",Female,18.0,0,0,365226,6.75,Unknown,Queenstown
+656,No,Second Class,"Hickman, Mr. Leonard Mark",Male,24.0,2,0,S.O.C. 14879,73.5,Unknown,Southampton
+657,No,Third Class,"Radeff, Mr. Alexander",Male,28.0,0,0,349223,7.9,Unknown,Southampton
+658,No,Third Class,"Bourke, Mrs. John (Catherine)",Female,32.0,1,1,364849,15.5,Unknown,Queenstown
+659,No,Second Class,"Eitemiller, Mr. George Floyd",Male,23.0,0,0,29751,13.0,Unknown,Southampton
+660,No,First Class,"Newell, Mr. Arthur Webster",Male,58.0,0,2,35273,113.28,D48,Cherbourg
+661,Yes,First Class,"Frauenthal, Dr. Henry William",Male,50.0,2,0,PC 17611,133.65,Unknown,Southampton
+662,No,Third Class,"Badt, Mr. Mohamed",Male,40.0,0,0,2623,7.22,Unknown,Cherbourg
+663,No,First Class,"Colley, Mr. Edward Pomeroy",Male,47.0,0,0,5727,25.59,E58,Southampton
+664,No,Third Class,"Coleff, Mr. Peju",Male,36.0,0,0,349210,7.5,Unknown,Southampton
+665,Yes,Third Class,"Lindqvist, Mr. Eino William",Male,20.0,1,0,STON/O 2. 3101285,7.92,Unknown,Southampton
+666,No,Second Class,"Hickman, Mr. Lewis",Male,32.0,2,0,S.O.C. 14879,73.5,Unknown,Southampton
+667,No,Second Class,"Butler, Mr. Reginald Fenton",Male,25.0,0,0,234686,13.0,Unknown,Southampton
+668,No,Third Class,"Rommetvedt, Mr. Knud Paust",Male,28.0,0,0,312993,7.78,Unknown,Southampton
+669,No,Third Class,"Cook, Mr. Jacob",Male,43.0,0,0,A/5 3536,8.05,Unknown,Southampton
+670,Yes,First Class,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Female,28.0,1,0,19996,52.0,C126,Southampton
+671,Yes,Second Class,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Female,40.0,1,1,29750,39.0,Unknown,Southampton
+672,No,First Class,"Davidson, Mr. Thornton",Male,31.0,1,0,F.C. 12750,52.0,B71,Southampton
+673,No,Second Class,"Mitchell, Mr. Henry Michael",Male,70.0,0,0,C.A. 24580,10.5,Unknown,Southampton
+674,Yes,Second Class,"Wilhelms, Mr. Charles",Male,31.0,0,0,244270,13.0,Unknown,Southampton
+675,No,Second Class,"Watson, Mr. Ennis Hastings",Male,28.0,0,0,239856,0.0,Unknown,Southampton
+676,No,Third Class,"Edvardsson, Mr. Gustaf Hjalmar",Male,18.0,0,0,349912,7.78,Unknown,Southampton
+677,No,Third Class,"Sawyer, Mr. Frederick Charles",Male,24.5,0,0,342826,8.05,Unknown,Southampton
+678,Yes,Third Class,"Turja, Miss. Anna Sofia",Female,18.0,0,0,4138,9.84,Unknown,Southampton
+679,No,Third Class,"Goodwin, Mrs. Frederick (Augusta Tyler)",Female,43.0,1,6,CA 2144,46.9,Unknown,Southampton
+680,Yes,First Class,"Cardeza, Mr. Thomas Drake Martinez",Male,36.0,0,1,PC 17755,512.33,B51 B53 B55,Cherbourg
+681,No,Third Class,"Peters, Miss. Katie",Female,28.0,0,0,330935,8.14,Unknown,Queenstown
+682,Yes,First Class,"Hassab, Mr. Hammad",Male,27.0,0,0,PC 17572,76.73,D49,Cherbourg
+683,No,Third Class,"Olsvigen, Mr. Thor Anderson",Male,20.0,0,0,6563,9.22,Unknown,Southampton
+684,No,Third Class,"Goodwin, Mr. Charles Edward",Male,14.0,5,2,CA 2144,46.9,Unknown,Southampton
+685,No,Second Class,"Brown, Mr. Thomas William Solomon",Male,60.0,1,1,29750,39.0,Unknown,Southampton
+686,No,Second Class,"Laroche, Mr. Joseph Philippe Lemercier",Male,25.0,1,2,SC/Paris 2123,41.58,Unknown,Cherbourg
+687,No,Third Class,"Panula, Mr. Jaako Arnold",Male,14.0,4,1,3101295,39.69,Unknown,Southampton
+688,No,Third Class,"Dakic, Mr. Branko",Male,19.0,0,0,349228,10.17,Unknown,Southampton
+689,No,Third Class,"Fischer, Mr. Eberhard Thelander",Male,18.0,0,0,350036,7.8,Unknown,Southampton
+690,Yes,First Class,"Madill, Miss. Georgette Alexandra",Female,15.0,0,1,24160,211.34,B5,Southampton
+691,Yes,First Class,"Dick, Mr. Albert Adrian",Male,31.0,1,0,17474,57.0,B20,Southampton
+692,Yes,Third Class,"Karun, Miss. Manca",Female,4.0,0,1,349256,13.42,Unknown,Cherbourg
+693,Yes,Third Class,"Lam, Mr. Ali",Male,28.0,0,0,1601,56.5,Unknown,Southampton
+694,No,Third Class,"Saad, Mr. Khalil",Male,25.0,0,0,2672,7.22,Unknown,Cherbourg
+695,No,First Class,"Weir, Col. John",Male,60.0,0,0,113800,26.55,Unknown,Southampton
+696,No,Second Class,"Chapman, Mr. Charles Henry",Male,52.0,0,0,248731,13.5,Unknown,Southampton
+697,No,Third Class,"Kelly, Mr. James",Male,44.0,0,0,363592,8.05,Unknown,Southampton
+698,Yes,Third Class,"Mullens, Miss. Katherine ""Katie""",Female,28.0,0,0,35852,7.73,Unknown,Queenstown
+699,No,First Class,"Thayer, Mr. John Borland",Male,49.0,1,1,17421,110.88,C68,Cherbourg
+700,No,Third Class,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Male,42.0,0,0,348121,7.65,F G63,Southampton
+701,Yes,First Class,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Female,18.0,1,0,PC 17757,227.52,C62 C64,Cherbourg
+702,Yes,First Class,"Silverthorne, Mr. Spencer Victor",Male,35.0,0,0,PC 17475,26.29,E24,Southampton
+703,No,Third Class,"Barbara, Miss. Saiide",Female,18.0,0,1,2691,14.45,Unknown,Cherbourg
+704,No,Third Class,"Gallagher, Mr. Martin",Male,25.0,0,0,36864,7.74,Unknown,Queenstown
+705,No,Third Class,"Hansen, Mr. Henrik Juul",Male,26.0,1,0,350025,7.85,Unknown,Southampton
+706,No,Second Class,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Male,39.0,0,0,250655,26.0,Unknown,Southampton
+707,Yes,Second Class,"Kelly, Mrs. Florence ""Fannie""",Female,45.0,0,0,223596,13.5,Unknown,Southampton
+708,Yes,First Class,"Calderhead, Mr. Edward Pennington",Male,42.0,0,0,PC 17476,26.29,E24,Southampton
+709,Yes,First Class,"Cleaver, Miss. Alice",Female,22.0,0,0,113781,151.55,Unknown,Southampton
+710,Yes,Third Class,"Moubarek, Master. Halim Gonios (""William George"")",Male,28.0,1,1,2661,15.25,Unknown,Cherbourg
+711,Yes,First Class,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Female,24.0,0,0,PC 17482,49.5,C90,Cherbourg
+712,No,First Class,"Klaber, Mr. Herman",Male,28.0,0,0,113028,26.55,C124,Southampton
+713,Yes,First Class,"Taylor, Mr. Elmer Zebley",Male,48.0,1,0,19996,52.0,C126,Southampton
+714,No,Third Class,"Larsson, Mr. August Viktor",Male,29.0,0,0,7545,9.48,Unknown,Southampton
+715,No,Second Class,"Greenberg, Mr. Samuel",Male,52.0,0,0,250647,13.0,Unknown,Southampton
+716,No,Third Class,"Soholt, Mr. Peter Andreas Lauritz Andersen",Male,19.0,0,0,348124,7.65,F G73,Southampton
+717,Yes,First Class,"Endres, Miss. Caroline Louise",Female,38.0,0,0,PC 17757,227.52,C45,Cherbourg
+718,Yes,Second Class,"Troutt, Miss. Edwina Celia ""Winnie""",Female,27.0,0,0,34218,10.5,E101,Southampton
+719,No,Third Class,"McEvoy, Mr. Michael",Male,28.0,0,0,36568,15.5,Unknown,Queenstown
+720,No,Third Class,"Johnson, Mr. Malkolm Joackim",Male,33.0,0,0,347062,7.78,Unknown,Southampton
+721,Yes,Second Class,"Harper, Miss. Annie Jessie ""Nina""",Female,6.0,0,1,248727,33.0,Unknown,Southampton
+722,No,Third Class,"Jensen, Mr. Svend Lauritz",Male,17.0,1,0,350048,7.05,Unknown,Southampton
+723,No,Second Class,"Gillespie, Mr. William Henry",Male,34.0,0,0,12233,13.0,Unknown,Southampton
+724,No,Second Class,"Hodges, Mr. Henry Price",Male,50.0,0,0,250643,13.0,Unknown,Southampton
+725,Yes,First Class,"Chambers, Mr. Norman Campbell",Male,27.0,1,0,113806,53.1,E8,Southampton
+726,No,Third Class,"Oreskovic, Mr. Luka",Male,20.0,0,0,315094,8.66,Unknown,Southampton
+727,Yes,Second Class,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Female,30.0,3,0,31027,21.0,Unknown,Southampton
+728,Yes,Third Class,"Mannion, Miss. Margareth",Female,28.0,0,0,36866,7.74,Unknown,Queenstown
+729,No,Second Class,"Bryhl, Mr. Kurt Arnold Gottfrid",Male,25.0,1,0,236853,26.0,Unknown,Southampton
+730,No,Third Class,"Ilmakangas, Miss. Pieta Sofia",Female,25.0,1,0,STON/O2. 3101271,7.92,Unknown,Southampton
+731,Yes,First Class,"Allen, Miss. Elisabeth Walton",Female,29.0,0,0,24160,211.34,B5,Southampton
+732,No,Third Class,"Hassan, Mr. Houssein G N",Male,11.0,0,0,2699,18.79,Unknown,Cherbourg
+733,No,Second Class,"Knight, Mr. Robert J",Male,28.0,0,0,239855,0.0,Unknown,Southampton
+734,No,Second Class,"Berriman, Mr. William John",Male,23.0,0,0,28425,13.0,Unknown,Southampton
+735,No,Second Class,"Troupiansky, Mr. Moses Aaron",Male,23.0,0,0,233639,13.0,Unknown,Southampton
+736,No,Third Class,"Williams, Mr. Leslie",Male,28.5,0,0,54636,16.1,Unknown,Southampton
+737,No,Third Class,"Ford, Mrs. Edward (Margaret Ann Watson)",Female,48.0,1,3,W./C. 6608,34.38,Unknown,Southampton
+738,Yes,First Class,"Lesurer, Mr. Gustave J",Male,35.0,0,0,PC 17755,512.33,B101,Cherbourg
+739,No,Third Class,"Ivanoff, Mr. Kanio",Male,28.0,0,0,349201,7.9,Unknown,Southampton
+740,No,Third Class,"Nankoff, Mr. Minko",Male,28.0,0,0,349218,7.9,Unknown,Southampton
+741,Yes,First Class,"Hawksford, Mr. Walter James",Male,28.0,0,0,16988,30.0,D45,Southampton
+742,No,First Class,"Cavendish, Mr. Tyrell William",Male,36.0,1,0,19877,78.85,C46,Southampton
+743,Yes,First Class,"Ryerson, Miss. Susan Parker ""Suzette""",Female,21.0,2,2,PC 17608,262.38,B57 B59 B63 B66,Cherbourg
+744,No,Third Class,"McNamee, Mr. Neal",Male,24.0,1,0,376566,16.1,Unknown,Southampton
+745,Yes,Third Class,"Stranden, Mr. Juho",Male,31.0,0,0,STON/O 2. 3101288,7.92,Unknown,Southampton
+746,No,First Class,"Crosby, Capt. Edward Gifford",Male,70.0,1,1,WE/P 5735,71.0,B22,Southampton
+747,No,Third Class,"Abbott, Mr. Rossmore Edward",Male,16.0,1,1,C.A. 2673,20.25,Unknown,Southampton
+748,Yes,Second Class,"Sinkkonen, Miss. Anna",Female,30.0,0,0,250648,13.0,Unknown,Southampton
+749,No,First Class,"Marvin, Mr. Daniel Warner",Male,19.0,1,0,113773,53.1,D30,Southampton
+750,No,Third Class,"Connaghton, Mr. Michael",Male,31.0,0,0,335097,7.75,Unknown,Queenstown
+751,Yes,Second Class,"Wells, Miss. Joan",Female,4.0,1,1,29103,23.0,Unknown,Southampton
+752,Yes,Third Class,"Moor, Master. Meier",Male,6.0,0,1,392096,12.48,E121,Southampton
+753,No,Third Class,"Vande Velde, Mr. Johannes Joseph",Male,33.0,0,0,345780,9.5,Unknown,Southampton
+754,No,Third Class,"Jonkoff, Mr. Lalio",Male,23.0,0,0,349204,7.9,Unknown,Southampton
+755,Yes,Second Class,"Herman, Mrs. Samuel (Jane Laver)",Female,48.0,1,2,220845,65.0,Unknown,Southampton
+756,Yes,Second Class,"Hamalainen, Master. Viljo",Male,0.67,1,1,250649,14.5,Unknown,Southampton
+757,No,Third Class,"Carlsson, Mr. August Sigfrid",Male,28.0,0,0,350042,7.8,Unknown,Southampton
+758,No,Second Class,"Bailey, Mr. Percy Andrew",Male,18.0,0,0,29108,11.5,Unknown,Southampton
+759,No,Third Class,"Theobald, Mr. Thomas Leonard",Male,34.0,0,0,363294,8.05,Unknown,Southampton
+760,Yes,First Class,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Female,33.0,0,0,110152,86.5,B77,Southampton
+761,No,Third Class,"Garfirth, Mr. John",Male,28.0,0,0,358585,14.5,Unknown,Southampton
+762,No,Third Class,"Nirva, Mr. Iisakki Antino Aijo",Male,41.0,0,0,SOTON/O2 3101272,7.12,Unknown,Southampton
+763,Yes,Third Class,"Barah, Mr. Hanna Assi",Male,20.0,0,0,2663,7.23,Unknown,Cherbourg
+764,Yes,First Class,"Carter, Mrs. William Ernest (Lucile Polk)",Female,36.0,1,2,113760,120.0,B96 B98,Southampton
+765,No,Third Class,"Eklund, Mr. Hans Linus",Male,16.0,0,0,347074,7.78,Unknown,Southampton
+766,Yes,First Class,"Hogeboom, Mrs. John C (Anna Andrews)",Female,51.0,1,0,13502,77.96,D11,Southampton
+767,No,First Class,"Brewe, Dr. Arthur Jackson",Male,28.0,0,0,112379,39.6,Unknown,Cherbourg
+768,No,Third Class,"Mangan, Miss. Mary",Female,30.5,0,0,364850,7.75,Unknown,Queenstown
+769,No,Third Class,"Moran, Mr. Daniel J",Male,28.0,1,0,371110,24.15,Unknown,Queenstown
+770,No,Third Class,"Gronnestad, Mr. Daniel Danielsen",Male,32.0,0,0,8471,8.36,Unknown,Southampton
+771,No,Third Class,"Lievens, Mr. Rene Aime",Male,24.0,0,0,345781,9.5,Unknown,Southampton
+772,No,Third Class,"Jensen, Mr. Niels Peder",Male,48.0,0,0,350047,7.85,Unknown,Southampton
+773,No,Second Class,"Mack, Mrs. (Mary)",Female,57.0,0,0,S.O./P.P. 3,10.5,E77,Southampton
+774,No,Third Class,"Elias, Mr. Dibo",Male,28.0,0,0,2674,7.22,Unknown,Cherbourg
+775,Yes,Second Class,"Hocking, Mrs. Elizabeth (Eliza Needs)",Female,54.0,1,3,29105,23.0,Unknown,Southampton
+776,No,Third Class,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Male,18.0,0,0,347078,7.75,Unknown,Southampton
+777,No,Third Class,"Tobin, Mr. Roger",Male,28.0,0,0,383121,7.75,F38,Queenstown
+778,Yes,Third Class,"Emanuel, Miss. Virginia Ethel",Female,5.0,0,0,364516,12.48,Unknown,Southampton
+779,No,Third Class,"Kilgannon, Mr. Thomas J",Male,28.0,0,0,36865,7.74,Unknown,Queenstown
+780,Yes,First Class,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Female,43.0,0,1,24160,211.34,B3,Southampton
+781,Yes,Third Class,"Ayoub, Miss. Banoura",Female,13.0,0,0,2687,7.23,Unknown,Cherbourg
+782,Yes,First Class,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Female,17.0,1,0,17474,57.0,B20,Southampton
+783,No,First Class,"Long, Mr. Milton Clyde",Male,29.0,0,0,113501,30.0,D6,Southampton
+784,No,Third Class,"Johnston, Mr. Andrew G",Male,28.0,1,2,W./C. 6607,23.45,Unknown,Southampton
+785,No,Third Class,"Ali, Mr. William",Male,25.0,0,0,SOTON/O.Q. 3101312,7.05,Unknown,Southampton
+786,No,Third Class,"Harmer, Mr. Abraham (David Lishin)",Male,25.0,0,0,374887,7.25,Unknown,Southampton
+787,Yes,Third Class,"Sjoblom, Miss. Anna Sofia",Female,18.0,0,0,3101265,7.5,Unknown,Southampton
+788,No,Third Class,"Rice, Master. George Hugh",Male,8.0,4,1,382652,29.12,Unknown,Queenstown
+789,Yes,Third Class,"Dean, Master. Bertram Vere",Male,1.0,1,2,C.A. 2315,20.58,Unknown,Southampton
+790,No,First Class,"Guggenheim, Mr. Benjamin",Male,46.0,0,0,PC 17593,79.2,B82 B84,Cherbourg
+791,No,Third Class,"Keane, Mr. Andrew ""Andy""",Male,28.0,0,0,12460,7.75,Unknown,Queenstown
+792,No,Second Class,"Gaskell, Mr. Alfred",Male,16.0,0,0,239865,26.0,Unknown,Southampton
+793,No,Third Class,"Sage, Miss. Stella Anna",Female,28.0,8,2,CA. 2343,69.55,Unknown,Southampton
+794,No,First Class,"Hoyt, Mr. William Fisher",Male,28.0,0,0,PC 17600,30.7,Unknown,Cherbourg
+795,No,Third Class,"Dantcheff, Mr. Ristiu",Male,25.0,0,0,349203,7.9,Unknown,Southampton
+796,No,Second Class,"Otter, Mr. Richard",Male,39.0,0,0,28213,13.0,Unknown,Southampton
+797,Yes,First Class,"Leader, Dr. Alice (Farnham)",Female,49.0,0,0,17465,25.93,D17,Southampton
+798,Yes,Third Class,"Osman, Mrs. Mara",Female,31.0,0,0,349244,8.68,Unknown,Southampton
+799,No,Third Class,"Ibrahim Shawah, Mr. Yousseff",Male,30.0,0,0,2685,7.23,Unknown,Cherbourg
+800,No,Third Class,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Female,30.0,1,1,345773,24.15,Unknown,Southampton
+801,No,Second Class,"Ponesell, Mr. Martin",Male,34.0,0,0,250647,13.0,Unknown,Southampton
+802,Yes,Second Class,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Female,31.0,1,1,C.A. 31921,26.25,Unknown,Southampton
+803,Yes,First Class,"Carter, Master. William Thornton II",Male,11.0,1,2,113760,120.0,B96 B98,Southampton
+804,Yes,Third Class,"Thomas, Master. Assad Alexander",Male,0.42,0,1,2625,8.52,Unknown,Cherbourg
+805,Yes,Third Class,"Hedman, Mr. Oskar Arvid",Male,27.0,0,0,347089,6.98,Unknown,Southampton
+806,No,Third Class,"Johansson, Mr. Karl Johan",Male,31.0,0,0,347063,7.78,Unknown,Southampton
+807,No,First Class,"Andrews, Mr. Thomas Jr",Male,39.0,0,0,112050,0.0,A36,Southampton
+808,No,Third Class,"Pettersson, Miss. Ellen Natalia",Female,18.0,0,0,347087,7.78,Unknown,Southampton
+809,No,Second Class,"Meyer, Mr. August",Male,39.0,0,0,248723,13.0,Unknown,Southampton
+810,Yes,First Class,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Female,33.0,1,0,113806,53.1,E8,Southampton
+811,No,Third Class,"Alexander, Mr. William",Male,26.0,0,0,3474,7.89,Unknown,Southampton
+812,No,Third Class,"Lester, Mr. James",Male,39.0,0,0,A/4 48871,24.15,Unknown,Southampton
+813,No,Second Class,"Slemen, Mr. Richard James",Male,35.0,0,0,28206,10.5,Unknown,Southampton
+814,No,Third Class,"Andersson, Miss. Ebba Iris Alfrida",Female,6.0,4,2,347082,31.28,Unknown,Southampton
+815,No,Third Class,"Tomlin, Mr. Ernest Portage",Male,30.5,0,0,364499,8.05,Unknown,Southampton
+816,No,First Class,"Fry, Mr. Richard",Male,28.0,0,0,112058,0.0,B102,Southampton
+817,No,Third Class,"Heininen, Miss. Wendla Maria",Female,23.0,0,0,STON/O2. 3101290,7.92,Unknown,Southampton
+818,No,Second Class,"Mallet, Mr. Albert",Male,31.0,1,1,S.C./PARIS 2079,37.0,Unknown,Cherbourg
+819,No,Third Class,"Holm, Mr. John Fredrik Alexander",Male,43.0,0,0,C 7075,6.45,Unknown,Southampton
+820,No,Third Class,"Skoog, Master. Karl Thorsten",Male,10.0,3,2,347088,27.9,Unknown,Southampton
+821,Yes,First Class,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Female,52.0,1,1,12749,93.5,B69,Southampton
+822,Yes,Third Class,"Lulic, Mr. Nikola",Male,27.0,0,0,315098,8.66,Unknown,Southampton
+823,No,First Class,"Reuchlin, Jonkheer. John George",Male,38.0,0,0,19972,0.0,Unknown,Southampton
+824,Yes,Third Class,"Moor, Mrs. (Beila)",Female,27.0,0,1,392096,12.48,E121,Southampton
+825,No,Third Class,"Panula, Master. Urho Abraham",Male,2.0,4,1,3101295,39.69,Unknown,Southampton
+826,No,Third Class,"Flynn, Mr. John",Male,28.0,0,0,368323,6.95,Unknown,Queenstown
+827,No,Third Class,"Lam, Mr. Len",Male,28.0,0,0,1601,56.5,Unknown,Southampton
+828,Yes,Second Class,"Mallet, Master. Andre",Male,1.0,0,2,S.C./PARIS 2079,37.0,Unknown,Cherbourg
+829,Yes,Third Class,"McCormack, Mr. Thomas Joseph",Male,28.0,0,0,367228,7.75,Unknown,Queenstown
+830,Yes,First Class,"Stone, Mrs. George Nelson (Martha Evelyn)",Female,62.0,0,0,113572,80.0,B28,Southampton
+831,Yes,Third Class,"Yasbeck, Mrs. Antoni (Selini Alexander)",Female,15.0,1,0,2659,14.45,Unknown,Cherbourg
+832,Yes,Second Class,"Richards, Master. George Sibley",Male,0.83,1,1,29106,18.75,Unknown,Southampton
+833,No,Third Class,"Saad, Mr. Amin",Male,28.0,0,0,2671,7.23,Unknown,Cherbourg
+834,No,Third Class,"Augustsson, Mr. Albert",Male,23.0,0,0,347468,7.85,Unknown,Southampton
+835,No,Third Class,"Allum, Mr. Owen George",Male,18.0,0,0,2223,8.3,Unknown,Southampton
+836,Yes,First Class,"Compton, Miss. Sara Rebecca",Female,39.0,1,1,PC 17756,83.16,E49,Cherbourg
+837,No,Third Class,"Pasic, Mr. Jakob",Male,21.0,0,0,315097,8.66,Unknown,Southampton
+838,No,Third Class,"Sirota, Mr. Maurice",Male,28.0,0,0,392092,8.05,Unknown,Southampton
+839,Yes,Third Class,"Chip, Mr. Chang",Male,32.0,0,0,1601,56.5,Unknown,Southampton
+840,Yes,First Class,"Marechal, Mr. Pierre",Male,28.0,0,0,11774,29.7,C47,Cherbourg
+841,No,Third Class,"Alhomaki, Mr. Ilmari Rudolf",Male,20.0,0,0,SOTON/O2 3101287,7.92,Unknown,Southampton
+842,No,Second Class,"Mudd, Mr. Thomas Charles",Male,16.0,0,0,S.O./P.P. 3,10.5,Unknown,Southampton
+843,Yes,First Class,"Serepeca, Miss. Augusta",Female,30.0,0,0,113798,31.0,Unknown,Cherbourg
+844,No,Third Class,"Lemberopolous, Mr. Peter L",Male,34.5,0,0,2683,6.44,Unknown,Cherbourg
+845,No,Third Class,"Culumovic, Mr. Jeso",Male,17.0,0,0,315090,8.66,Unknown,Southampton
+846,No,Third Class,"Abbing, Mr. Anthony",Male,42.0,0,0,C.A. 5547,7.55,Unknown,Southampton
+847,No,Third Class,"Sage, Mr. Douglas Bullen",Male,28.0,8,2,CA. 2343,69.55,Unknown,Southampton
+848,No,Third Class,"Markoff, Mr. Marin",Male,35.0,0,0,349213,7.9,Unknown,Cherbourg
+849,No,Second Class,"Harper, Rev. John",Male,28.0,0,1,248727,33.0,Unknown,Southampton
+850,Yes,First Class,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Female,28.0,1,0,17453,89.1,C92,Cherbourg
+851,No,Third Class,"Andersson, Master. Sigvard Harald Elias",Male,4.0,4,2,347082,31.28,Unknown,Southampton
+852,No,Third Class,"Svensson, Mr. Johan",Male,74.0,0,0,347060,7.78,Unknown,Southampton
+853,No,Third Class,"Boulos, Miss. Nourelain",Female,9.0,1,1,2678,15.25,Unknown,Cherbourg
+854,Yes,First Class,"Lines, Miss. Mary Conover",Female,16.0,0,1,PC 17592,39.4,D28,Southampton
+855,No,Second Class,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Female,44.0,1,0,244252,26.0,Unknown,Southampton
+856,Yes,Third Class,"Aks, Mrs. Sam (Leah Rosen)",Female,18.0,0,1,392091,9.35,Unknown,Southampton
+857,Yes,First Class,"Wick, Mrs. George Dennick (Mary Hitchcock)",Female,45.0,1,1,36928,164.87,Unknown,Southampton
+858,Yes,First Class,"Daly, Mr. Peter Denis ",Male,51.0,0,0,113055,26.55,E17,Southampton
+859,Yes,Third Class,"Baclini, Mrs. Solomon (Latifa Qurban)",Female,24.0,0,3,2666,19.26,Unknown,Cherbourg
+860,No,Third Class,"Razi, Mr. Raihed",Male,28.0,0,0,2629,7.23,Unknown,Cherbourg
+861,No,Third Class,"Hansen, Mr. Claus Peter",Male,41.0,2,0,350026,14.11,Unknown,Southampton
+862,No,Second Class,"Giles, Mr. Frederick Edward",Male,21.0,1,0,28134,11.5,Unknown,Southampton
+863,Yes,First Class,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Female,48.0,0,0,17466,25.93,D17,Southampton
+864,No,Third Class,"Sage, Miss. Dorothy Edith ""Dolly""",Female,28.0,8,2,CA. 2343,69.55,Unknown,Southampton
+865,No,Second Class,"Gill, Mr. John William",Male,24.0,0,0,233866,13.0,Unknown,Southampton
+866,Yes,Second Class,"Bystrom, Mrs. (Karolina)",Female,42.0,0,0,236852,13.0,Unknown,Southampton
+867,Yes,Second Class,"Duran y More, Miss. Asuncion",Female,27.0,1,0,SC/PARIS 2149,13.86,Unknown,Cherbourg
+868,No,First Class,"Roebling, Mr. Washington Augustus II",Male,31.0,0,0,PC 17590,50.5,A24,Southampton
+869,No,Third Class,"van Melkebeke, Mr. Philemon",Male,28.0,0,0,345777,9.5,Unknown,Southampton
+870,Yes,Third Class,"Johnson, Master. Harold Theodor",Male,4.0,1,1,347742,11.13,Unknown,Southampton
+871,No,Third Class,"Balkic, Mr. Cerin",Male,26.0,0,0,349248,7.9,Unknown,Southampton
+872,Yes,First Class,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Female,47.0,1,1,11751,52.55,D35,Southampton
+873,No,First Class,"Carlsson, Mr. Frans Olof",Male,33.0,0,0,695,5.0,B51 B53 B55,Southampton
+874,No,Third Class,"Vander Cruyssen, Mr. Victor",Male,47.0,0,0,345765,9.0,Unknown,Southampton
+875,Yes,Second Class,"Abelson, Mrs. Samuel (Hannah Wizosky)",Female,28.0,1,0,P/PP 3381,24.0,Unknown,Cherbourg
+876,Yes,Third Class,"Najib, Miss. Adele Kiamie ""Jane""",Female,15.0,0,0,2667,7.22,Unknown,Cherbourg
+877,No,Third Class,"Gustafsson, Mr. Alfred Ossian",Male,20.0,0,0,7534,9.85,Unknown,Southampton
+878,No,Third Class,"Petroff, Mr. Nedelio",Male,19.0,0,0,349212,7.9,Unknown,Southampton
+879,No,Third Class,"Laleff, Mr. Kristo",Male,28.0,0,0,349217,7.9,Unknown,Southampton
+880,Yes,First Class,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Female,56.0,0,1,11767,83.16,C50,Cherbourg
+881,Yes,Second Class,"Shelley, Mrs. William (Imanita Parrish Hall)",Female,25.0,0,1,230433,26.0,Unknown,Southampton
+882,No,Third Class,"Markun, Mr. Johann",Male,33.0,0,0,349257,7.9,Unknown,Southampton
+883,No,Third Class,"Dahlberg, Miss. Gerda Ulrika",Female,22.0,0,0,7552,10.52,Unknown,Southampton
+884,No,Second Class,"Banfield, Mr. Frederick James",Male,28.0,0,0,C.A./SOTON 34068,10.5,Unknown,Southampton
+885,No,Third Class,"Sutehall, Mr. Henry Jr",Male,25.0,0,0,SOTON/OQ 392076,7.05,Unknown,Southampton
+886,No,Third Class,"Rice, Mrs. William (Margaret Norton)",Female,39.0,0,5,382652,29.12,Unknown,Queenstown
+887,No,Second Class,"Montvila, Rev. Juozas",Male,27.0,0,0,211536,13.0,Unknown,Southampton
+888,Yes,First Class,"Graham, Miss. Margaret Edith",Female,19.0,0,0,112053,30.0,B42,Southampton
+889,No,Third Class,"Johnston, Miss. Catherine Helen ""Carrie""",Female,28.0,1,2,W./C. 6607,23.45,Unknown,Southampton
+890,Yes,First Class,"Behr, Mr. Karl Howell",Male,26.0,0,0,111369,30.0,C148,Cherbourg
+891,No,Third Class,"Dooley, Mr. Patrick",Male,32.0,0,0,370376,7.75,Unknown,Queenstown
